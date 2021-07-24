@@ -53,6 +53,14 @@ Solving Problems Involving Factors of Polynomials
 - [Watch video](https://tubedu.org/videos/watch/5a457882-c23c-45b8-a415-86c341973c72),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-factors-of-polynomials.mp4)
 
+### Week 3 Lesson 1
+Rational Algebraic Expressions
+- [Watch video](https://tubedu.org/videos/watch/ef499165-5e39-4fdc-a175-3c70063290a5),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/rational-algebraic-expressions.mp4)
+
+
+
+
 
 
 
