@@ -43,9 +43,15 @@ Factoring Trinomials with 1 as Leading Coefficient
 - [Watch video](https://tubedu.org/videos/watch/e2db50ce-d713-494e-b15b-1f4c60d89c80),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-trinomials-with-1-as-leading-coefficient.mp4)
 
+### Week 2 Lesson 3
+Factoring General Trinomials
+- [Watch video](https://tubedu.org/videos/watch/908c5335-738d-4215-8e9c-32477a83879f),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-general-trinomials.mp4)
 
-
-
+### Week 2 Lesson 4
+Solving Problems Involving Factors of Polynomials
+- [Watch video](https://tubedu.org/videos/watch/5a457882-c23c-45b8-a415-86c341973c72),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-factors-of-polynomials.mp4)
 
 
 
