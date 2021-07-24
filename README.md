@@ -63,14 +63,55 @@ Simplifying Rational Algebraic Expressions
 - [Watch video](https://tubedu.org/videos/watch/e6722b91-2a10-4f1c-a060-0fec06988f0f),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/simplifying-rational-expressions.mp4)
 
+### Week 3 Lesson 3
+Multiplication and Division of Rational Algebraic Expressions
+- [Watch video](https://tubedu.org/videos/watch/c17cdb00-5dba-41db-b5b3-c56191317336),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/multiplication-and-division-of-rational-expressions.mp4)
 
+### Week 4 Lesson 1
+Addition and Subtraction of Rational Algebraic Expressions
+- [Watch video](https://tubedu.org/videos/watch/5f351473-e26a-4f28-8913-59dbc186442e),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/addition-and-subtraction-of-rational-expressions.mp4)
 
+### Week 4 Lesson 2
+Problem Solving Involving Rational Algebraic Expressions
+- [Watch video](https://tubedu.org/videos/watch/3f28fda6-a7e0-4d6a-b561-c259318600ed),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-rational-expressions.mp4)
 
+### Week 5 Lesson 1
+Rectangular Coordinate System
+- [Watch video](https://tubedu.org/videos/watch/274d0c3c-e40f-4b4f-aff2-e558d0ba2614),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/rectangular-coordinate-system.mp4)
 
+### Week 5 Lesson 2
+Linear Equations in Two Variables
+- [Watch video](https://tubedu.org/videos/watch/7dfbb3ab-8416-491b-91e8-e32a6f92d15a),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/linear-equations-in-two-variables.mp4)
 
+### Week 5 Lesson 3
+Slope of a Line
+- [Watch video](https://tubedu.org/videos/watch/c1a399f5-f503-4f28-b9f6-d65e28cfb95e),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/slope-of-a-line.mp4)
 
+### Week 6 Lesson 1
+Forms of Linear Equations
+- [Watch video](https://tubedu.org/videos/watch/da644a79-9430-4793-bcfd-6304241d254b),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/forms-of-linear-equations.mp4)
 
+### Week 6 Lesson 2
+Graphs of Linear Equations
+- [Watch video](https://tubedu.org/videos/watch/d1c646bd-f9c5-4305-b817-f8423fd7e46f),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/graphs-of-linear-equations.mp4)
 
+### Week 6 Lesson 3
+Describing Graphs of Linear Equations Using the Slope and Intercepts
+- [Watch video](https://tubedu.org/videos/watch/67fbca76-144f-4f42-aaac-9e5871ba1600),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/describing-graphs-of-linear-equations-using-the-slope-and-intercepts.mp4)
+
+### Week 7 Lesson 1
+Finding the Equation of a Line Given the Slope and a Point or Two Points
+- [Watch video](https://tubedu.org/videos/watch/1cd966dc-6ef2-4253-ac83-fd51599dd9ca),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/finding-the-equation-of-a-line-given-the-slope-and-a-point-or-two-points.mp4)
 
 
 
