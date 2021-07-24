@@ -58,6 +58,15 @@ Rational Algebraic Expressions
 - [Watch video](https://tubedu.org/videos/watch/ef499165-5e39-4fdc-a175-3c70063290a5),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/rational-algebraic-expressions.mp4)
 
+### Week 3 Lesson 2
+Simplifying Rational Algebraic Expressions
+- [Watch video](https://tubedu.org/videos/watch/e6722b91-2a10-4f1c-a060-0fec06988f0f),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/simplifying-rational-expressions.mp4)
+
+
+
+
+
 
 
 
