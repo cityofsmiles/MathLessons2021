@@ -113,7 +113,10 @@ Finding the Equation of a Line Given the Slope and a Point or Two Points
 - [Watch video](https://tubedu.org/videos/watch/1cd966dc-6ef2-4253-ac83-fd51599dd9ca),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/finding-the-equation-of-a-line-given-the-slope-and-a-point-or-two-points.mp4)
 
-
+### Week 7 Lesson 2
+Finding the Equation of a Line Given the Slope and the Intercepts
+- [Watch video](https://tubedu.org/videos/watch/5847d301-b7fc-47ef-9527-0ced87291614),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/finding-the-equation-of-a-line-given-the-slope-and-intercepts.mp4)
 
 
 
