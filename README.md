@@ -118,6 +118,18 @@ Finding the Equation of a Line Given the Slope and the Intercepts
 - [Watch video](https://tubedu.org/videos/watch/5847d301-b7fc-47ef-9527-0ced87291614),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/finding-the-equation-of-a-line-given-the-slope-and-intercepts.mp4)
 
+### Week 7 Lesson 3
+Solving Problems Involving Linear Equations -- Distance, Speed, and Time
+- [Watch video](https://tubedu.org/videos/watch/07977fad-4415-4027-ae39-b52458fead4d),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-linear-equations-distance-speed-and-time.mp4)
+
+### Week 7 Lesson 4
+Solving Problems Involving Linear Equations -- Constant Rate
+- [Watch video](https://tubedu.org/videos/watch/9f68bd05-5c92-4eec-ae65-69d620e1670d),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-linear-equations-constant-rate.mp4)
+
+
+
 
 
 
