@@ -128,10 +128,47 @@ Solving Problems Involving Linear Equations -- Constant Rate
 - [Watch video](https://tubedu.org/videos/watch/9f68bd05-5c92-4eec-ae65-69d620e1670d),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-linear-equations-constant-rate.mp4)
 
+### Week 8 Lesson 1
+Systems of Linear Equations in Two Variables
+- [Download pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/systems-of-linear-equations-in-two-variables.pdf),
+[Watch video](https://tubedu.org/videos/watch/d02db3f6-b9ff-450c-a93a-493a59d3643e),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/systems-of-linear-equations-in-two-variables.mp4)
 
+### Week 8 Lesson 2
+Graphing Systems of Linear Equations
+- [Download pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/graphing-systems-of-linear-equations.pdf),
+[Watch video](https://tubedu.org/videos/watch/2a814fba-35af-4d76-9c06-d1319086f598),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/graphing-systems-of-linear-equations.mp4)
 
+### Week 8 Lesson 3
+Categorizing Systems of Linear Equations
+- [Download pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/categorizing-systems-of-linear-equations.pdf),
+[Watch video](https://tubedu.org/videos/watch/5ab7a4ce-b6cf-4704-bf5b-1f80bd4623b0),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/categorizing-systems-of-linear-equations.mp4)
 
+### Week 9 Lesson 1
+Solving Systems of Linear Equations by Graphing
+- [Download pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-systems-of-linear-equations-by-graphing.pdf),
+[Watch video](https://tubedu.org/videos/watch/5461ce97-fe5b-48ac-a103-71b03f53cfa4),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-systems-of-equations-by-graphing.mp4)
 
+### Week 9 Lesson 2
+Solving Systems of Linear Equations by Substitution
+- [Download pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-systems-of-linear-equations-by-substitution.pdf),
+[Watch video](https://tubedu.org/videos/watch/05e38455-b4f7-43ff-a0e5-9116adac9a63),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-systems-of-linear-equations-by-substitution.mp4)
+
+### Week 9 Lesson 3
+Solving Systems of Linear Equations by Elimination
+- [Download pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-systems-of-linear-equations-by-elimination.pdf),
+[Watch video](https://tubedu.org/videos/watch/2b04a8bf-0aad-49ca-aedf-c8508f429f73),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-systems-of-linear-equations-by-elimination.mp4)
+
+### Week 9 Lesson 4
+Solving Word Problems Involving Systems of Linear Equations in Two Variables
+- [Download pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-systems-of-linear-equations.pdf),
+[Watch video](https://tubedu.org/videos/watch/31de765d-c0ec-4b7d-8350-be3af1d5e60e),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-systems-of-linear-equations.mp4)
 
 
 
