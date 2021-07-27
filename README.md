@@ -1,4 +1,4 @@
-# Grade 8 Lessons
+# Grade 8 Lessons 2021--2022
 This is a repository for Grade 8 teaching and assessment resources created by the Math teachers of Sauyo High School. The topics are based on the Most Essential Learning Competencies in Mathematics (MELC).
 
 ## First Grading Period
