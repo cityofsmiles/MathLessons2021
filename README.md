@@ -15,7 +15,8 @@ Order of Operations (PEMDAS Rule)
 
 ### Week 1 Lesson 1
 Factoring Polynomials with Common Monomial Factor 
-- [Watch video](https://tubedu.org/videos/watch/92eb393b-2886-4834-b785-b6a19abc691d),
+- [Download Pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/factoring-polynomials-with-common-monomial-factor.pdf),
+[Watch video](https://tubedu.org/videos/watch/92eb393b-2886-4834-b785-b6a19abc691d),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-polynomials-with-common-monomial-factor.mp4)
 
 ### Week 1 Lesson 2
