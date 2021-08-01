@@ -99,47 +99,56 @@ Rectangular Coordinate System
 
 ### Week 5 Lesson 2
 Linear Equations in Two Variables
-- [Watch video](https://tubedu.org/videos/watch/7dfbb3ab-8416-491b-91e8-e32a6f92d15a),
+- [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/linear-equations-in-two-variables.pdf),
+[Watch video](https://tubedu.org/videos/watch/7dfbb3ab-8416-491b-91e8-e32a6f92d15a),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/linear-equations-in-two-variables.mp4)
 
 ### Week 5 Lesson 3
 Slope of a Line
-- [Watch video](https://tubedu.org/videos/watch/c1a399f5-f503-4f28-b9f6-d65e28cfb95e),
+- [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/slope-of-a-line.pdf),
+[Watch video](https://tubedu.org/videos/watch/c1a399f5-f503-4f28-b9f6-d65e28cfb95e),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/slope-of-a-line.mp4)
 
 ### Week 6 Lesson 1
 Forms of Linear Equations
-- [Watch video](https://tubedu.org/videos/watch/da644a79-9430-4793-bcfd-6304241d254b),
+- [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/forms-of-linear-equations.pdf),
+[Watch video](https://tubedu.org/videos/watch/da644a79-9430-4793-bcfd-6304241d254b),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/forms-of-linear-equations.mp4)
 
 ### Week 6 Lesson 2
 Graphs of Linear Equations
-- [Watch video](https://tubedu.org/videos/watch/d1c646bd-f9c5-4305-b817-f8423fd7e46f),
+- [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/graphs-of-linear-equations.pdf),
+[Watch video](https://tubedu.org/videos/watch/d1c646bd-f9c5-4305-b817-f8423fd7e46f),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/graphs-of-linear-equations.mp4)
 
 ### Week 6 Lesson 3
 Describing Graphs of Linear Equations Using the Slope and Intercepts
-- [Watch video](https://tubedu.org/videos/watch/67fbca76-144f-4f42-aaac-9e5871ba1600),
+- [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/describing-graphs-of-linear-equations-using-the-slope-and-intercepts.pdf),
+[Watch video](https://tubedu.org/videos/watch/67fbca76-144f-4f42-aaac-9e5871ba1600),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/describing-graphs-of-linear-equations-using-the-slope-and-intercepts.mp4)
 
 ### Week 7 Lesson 1
 Finding the Equation of a Line Given the Slope and a Point or Two Points
-- [Watch video](https://tubedu.org/videos/watch/1cd966dc-6ef2-4253-ac83-fd51599dd9ca),
+- [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/finding-the-equation-of-a-line-given-the-slope-and-a-point-or-two-points.pdf),
+[Watch video](https://tubedu.org/videos/watch/1cd966dc-6ef2-4253-ac83-fd51599dd9ca),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/finding-the-equation-of-a-line-given-the-slope-and-a-point-or-two-points.mp4)
 
 ### Week 7 Lesson 2
 Finding the Equation of a Line Given the Slope and the Intercepts
-- [Watch video](https://tubedu.org/videos/watch/5847d301-b7fc-47ef-9527-0ced87291614),
+- [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/finding-the-equation-of-a-line-given-the-slope-and-the-intercepts.pdf),
+[Watch video](https://tubedu.org/videos/watch/5847d301-b7fc-47ef-9527-0ced87291614),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/finding-the-equation-of-a-line-given-the-slope-and-intercepts.mp4)
 
 ### Week 7 Lesson 3
 Solving Problems Involving Linear Equations -- Distance, Speed, and Time
-- [Watch video](https://tubedu.org/videos/watch/07977fad-4415-4027-ae39-b52458fead4d),
+- [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/solving-problems-involving-linear-equations----distance%2C-speed%2C-and-time.pdf),
+[Watch video](https://tubedu.org/videos/watch/07977fad-4415-4027-ae39-b52458fead4d),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-linear-equations-distance-speed-and-time.mp4)
 
 ### Week 7 Lesson 4
 Solving Problems Involving Linear Equations -- Constant Rate
-- [Watch video](https://tubedu.org/videos/watch/9f68bd05-5c92-4eec-ae65-69d620e1670d),
+- [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/solving-problems-involving-linear-equations----constant-rate.pdf),
+[Watch video](https://tubedu.org/videos/watch/9f68bd05-5c92-4eec-ae65-69d620e1670d),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-linear-equations-constant-rate.mp4)
 
 ### Week 8 Lesson 1
