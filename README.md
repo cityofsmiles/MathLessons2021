@@ -45,47 +45,56 @@ Factoring Perfect Square Trinomials
 
 ### Week 2 Lesson 2
 Factoring Trinomials with 1 as Leading Coefficient
-- [Watch video](https://tubedu.org/videos/watch/e2db50ce-d713-494e-b15b-1f4c60d89c80),
+- [Download Pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/factoring-trinomials-with-1-as-leading-coefficient.pdf),
+[Watch video](https://tubedu.org/videos/watch/e2db50ce-d713-494e-b15b-1f4c60d89c80),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-trinomials-with-1-as-leading-coefficient.mp4)
 
 ### Week 2 Lesson 3
 Factoring General Trinomials
-- [Watch video](https://tubedu.org/videos/watch/908c5335-738d-4215-8e9c-32477a83879f),
+- [Download Pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/factoring-general-trinomials.pdf),
+[Watch video](https://tubedu.org/videos/watch/908c5335-738d-4215-8e9c-32477a83879f),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-general-trinomials.mp4)
 
 ### Week 2 Lesson 4
 Solving Problems Involving Factors of Polynomials
-- [Watch video](https://tubedu.org/videos/watch/5a457882-c23c-45b8-a415-86c341973c72),
+- [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/solving-problems-involving-factors-of-polynomials.pdf),
+[Watch video](https://tubedu.org/videos/watch/5a457882-c23c-45b8-a415-86c341973c72),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-factors-of-polynomials.mp4)
 
 ### Week 3 Lesson 1
 Rational Algebraic Expressions
-- [Watch video](https://tubedu.org/videos/watch/ef499165-5e39-4fdc-a175-3c70063290a5),
+- [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/rational-algebraic-expressions.pdf),
+[Watch video](https://tubedu.org/videos/watch/ef499165-5e39-4fdc-a175-3c70063290a5),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/rational-algebraic-expressions.mp4)
 
 ### Week 3 Lesson 2
 Simplifying Rational Algebraic Expressions
-- [Watch video](https://tubedu.org/videos/watch/e6722b91-2a10-4f1c-a060-0fec06988f0f),
+- [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/simplifying-rational-algebraic-expressions.pdf),
+[Watch video](https://tubedu.org/videos/watch/e6722b91-2a10-4f1c-a060-0fec06988f0f),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/simplifying-rational-expressions.mp4)
 
 ### Week 3 Lesson 3
 Multiplication and Division of Rational Algebraic Expressions
-- [Watch video](https://tubedu.org/videos/watch/c17cdb00-5dba-41db-b5b3-c56191317336),
+- [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/multiplication-and-division-of-rational-algebraic-expressions.pdf),
+[Watch video](https://tubedu.org/videos/watch/c17cdb00-5dba-41db-b5b3-c56191317336),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/multiplication-and-division-of-rational-expressions.mp4)
 
 ### Week 4 Lesson 1
 Addition and Subtraction of Rational Algebraic Expressions
-- [Watch video](https://tubedu.org/videos/watch/5f351473-e26a-4f28-8913-59dbc186442e),
+- [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/addition-and-subtraction-of-rational-algebraic-expressions.pdf),
+[Watch video](https://tubedu.org/videos/watch/5f351473-e26a-4f28-8913-59dbc186442e),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/addition-and-subtraction-of-rational-expressions.mp4)
 
 ### Week 4 Lesson 2
 Problem Solving Involving Rational Algebraic Expressions
-- [Watch video](https://tubedu.org/videos/watch/3f28fda6-a7e0-4d6a-b561-c259318600ed),
+- [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/problem-solving-involving-rational-algebraic-expressions.pdf),
+[Watch video](https://tubedu.org/videos/watch/3f28fda6-a7e0-4d6a-b561-c259318600ed),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-rational-expressions.mp4)
 
 ### Week 5 Lesson 1
 Rectangular Coordinate System
-- [Watch video](https://tubedu.org/videos/watch/274d0c3c-e40f-4b4f-aff2-e558d0ba2614),
+- [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/rectangular-coordinate-system.pdf),
+[Watch video](https://tubedu.org/videos/watch/274d0c3c-e40f-4b4f-aff2-e558d0ba2614),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/rectangular-coordinate-system.mp4)
 
 ### Week 5 Lesson 2
