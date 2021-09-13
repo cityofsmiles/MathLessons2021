@@ -13,6 +13,17 @@ Subtracting Integers
 Order of Operations (PEMDAS Rule)
 - [Watch video](https://www.youtube.com/watch?v=tSR3A8jFCDk)
 
+### Sept. 13-17, 2021: Week 1
+DepEd Mission and Vision
+- [Download Pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/deped-vision-mission.pdf)
+
+Class Orientation
+- [Download Pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/student-orientation.pdf)
+
+### Sept. 20-24, 2021: Week 2
+Grading System
+- [Download Pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/grading-system.pdf)
+
 ### Week 1 Lesson 1
 Factoring Polynomials with Common Monomial Factor 
 - [Download Pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/factoring-polynomials-with-common-monomial-factor.pdf),
