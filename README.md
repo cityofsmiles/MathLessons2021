@@ -1,6 +1,14 @@
 # Grade 8 Lessons and Resources, S.Y. 2021-2022
 This is a repository for Grade 8 teaching resources created by the Math teachers of Sauyo High School. The topics are based on the Most Essential Learning Competencies in Mathematics (MELC).
 
+## Important Links and Resources
+1. Practice answering the flashcards. Make sure your Telegram account is active before clicking the links.
+- [Flashcard 1](http://t.me/QuizBot?start=3EJ3FAVX)
+- [Flashcard 2](http://t.me/QuizBot?start=RFjRaS7k)
+- [Flashcard 3](http://t.me/QuizBot?start=am4LxLGa)
+- [Flashcard 4](http://t.me/QuizBot?start=Sujykupw)
+
+
 ## First Grading Period
 
 ### Review Lessons (Video lessons by Ma'am Emelyn Cañares)
