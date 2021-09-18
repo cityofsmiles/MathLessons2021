@@ -1,5 +1,5 @@
-# Grade 8 Lessons and Resources, S.Y. 2021--2022
-This is a repository for Grade 8 teaching and resources created by the Math teachers of Sauyo High School. The topics are based on the Most Essential Learning Competencies in Mathematics (MELC).
+# Grade 8 Lessons and Resources, S.Y. 2021-2022
+This is a repository for Grade 8 teaching resources created by the Math teachers of Sauyo High School. The topics are based on the Most Essential Learning Competencies in Mathematics (MELC).
 
 ## First Grading Period
 
@@ -21,6 +21,13 @@ Class Orientation
 - [Download Pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/student-orientation.pdf)
 
 ### Sept. 20-24, 2021: Week 2
+Please click your section to answer the Diagnostic Test. Deadline: Sept. 24, 2021
+- [8-Cooperation](https://forms.gle/fNWvKNmNsEVECumK9)
+- [8-Diligence](https://forms.gle/D8UYDCegUkeWMS619)
+- [8-Honesty](https://forms.gle/TLp8Vto1EyPaMwUu8)
+- [8-Obedience](https://forms.gle/PunBiJrZNEuLy2vFA)
+- [8-Vigor](https://forms.gle/8p9e2zQ2MnpuwpJS7)
+
 Grading System
 - [Download Pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/grading-system.pdf)
 
