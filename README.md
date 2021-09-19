@@ -23,11 +23,12 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 - [8-Vigor](https://docs.google.com/spreadsheets/d/124RdNoch7v4ynq4xpv-zcHdFDtLpVDmmSv6bV0DqKHo/edit?usp=sharing)
 
 4. Click your section to view your recitation results for the present quarter.
-- [8-Cooperation](https://drive.google.com/file/d/1rSGX9aieJ4pbz1YjD447MJAvPbt348NP/view?usp=sharing)
-- [8-Diligence](https://drive.google.com/file/d/1LxA9bTcvq15vICC4pzweviLtw9Wq2Kvu/view?usp=sharing)
-- [8-Honesty](https://drive.google.com/file/d/1ynvQndSzO8eE7LgOar-sk_Z7vI1XG0o1/view?usp=sharing)
-- [8-Obedience](https://drive.google.com/file/d/1mWkfIHoeH9d0xY04FE0NckWDzmXqfEJn/view?usp=sharing)
-- [8-Vigor](https://drive.google.com/file/d/1KCgzmAPfeyroQWDyy81zBG9eFEPpKu6n/view?usp=sharing)
+- [8-Cooperation](https://drive.google.com/file/d/1LVdXporMZ-GdvJyMQQsHXHGE-kOVySbw/view?usp=sharing)  
+- [8-Diligence](https://drive.google.com/file/d/1xK5INeWj0n2z7iJtKRFnIlKFFq1Ck3Mh/view?usp=sharing)
+- [8-Honesty](https://drive.google.com/file/d/1ibWAlzMx38EsV856GV2yQhAi6Vn9YX_J/view?usp=sharing)
+- [8-Obedience](https://drive.google.com/file/d/1avjp4mPa04zPmEvjtgJNOKzhpGvRZn9Y/view?usp=sharing)
+- [8-Vigor](https://drive.google.com/file/d/19ktofCBdNhdN-a4sg_9TvPiOxGkoI9P8/view?usp=sharing)
+
 
 ## First Grading Period
 
