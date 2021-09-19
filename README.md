@@ -15,6 +15,13 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 - [8-Obedience](https://docs.google.com/spreadsheets/d/1CcxITPQnFRkVTXI9zSBoapJOZhZdUp-u_MX-IRDeKeQ/edit?usp=sharing)
 - [8-Vigor](https://docs.google.com/spreadsheets/d/1sWjz_KC_qz3azt7esccs8W3_gnfOjqKdXrgXD6UeqM8/edit?usp=sharing)
 
+3. Click your section to view your scores in the Practice Exercises.
+- [8-Cooperation](https://docs.google.com/spreadsheets/d/19epDPglaHhRQJrTxeDageVSA3BdYXkVMdIyKD2GdhiQ/edit?usp=sharing)
+- [8-Diligence](https://docs.google.com/spreadsheets/d/15WbE3VJy4xDCK1MPbGeGSYBSRQbgATxHhcXGzlRHz8A/edit?usp=sharing)
+- [8-Honesty](https://docs.google.com/spreadsheets/d/1UlKhOSApw2yN-gGyDELyUgbTxJKR-BBSU-SQf6MXGKk/edit?usp=sharing)
+- [8-Obedience](https://docs.google.com/spreadsheets/d/1PmpVoSwuPSUbN7mvRewm41bWq7xTAP3s-gQ5AKH_0zk/edit?usp=sharing)
+- [8-Vigor](https://docs.google.com/spreadsheets/d/124RdNoch7v4ynq4xpv-zcHdFDtLpVDmmSv6bV0DqKHo/edit?usp=sharing)
+
 ## First Grading Period
 
 ### Review Lessons (Video lessons by Ma'am Emelyn Cañares)
