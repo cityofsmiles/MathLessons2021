@@ -60,6 +60,14 @@ Please click your section to answer the Diagnostic Test. Deadline: Sept. 24, 202
 Grading System
 - [Download Pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/grading-system.pdf)
 
+Watch the SDRRM Videos
+- [Project DINA Earthquake](https://tubedu.org/videos/watch/aaa3e478-1843-4b15-b563-e4c075177876)
+- [Project DINA Fire](https://tubedu.org/videos/watch/a2c9200f-8b7b-4735-8f9e-38cb31c0f35a)
+- [Project DINA Floods](https://tubedu.org/videos/watch/5c251a87-f9ac-421c-a1fc-7b3d5d1b3462)
+- [Project DINA Tropical Cyclones](https://tubedu.org/videos/watch/64a937c7-861f-4944-8f0f-893c2d18441e)
+- [Project DINA Volcanic Eruptions](https://tubedu.org/videos/watch/4a7fe06e-696a-43ab-9cbd-4ecb08ff4e73)
+
+
 ### Sept. 27-Oct.1, 2021: Week 3 Lesson 1
 Factoring Polynomials with Common Monomial Factor 
 - [Download Pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/factoring-polynomials-with-common-monomial-factor.pdf),
