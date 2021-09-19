@@ -8,6 +8,12 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 - [Flashcard 3](http://t.me/QuizBot?start=am4LxLGa)
 - [Flashcard 4](http://t.me/QuizBot?start=Sujykupw)
 
+2. Click your section to view your scores in the flashcards.
+- [8-Cooperation](https://docs.google.com/spreadsheets/d/1n39Tqa-07ZWbaQPwMthUICrb_tTkCQs0PlKdjsVGZXA/edit?usp=sharing)
+- [8-Diligence](https://docs.google.com/spreadsheets/d/1AEUEsM-2jxC6urVT9N1yMHX0jUlnHNwrZ3crlvWMV0Q/edit?usp=sharing)
+- [8-Honesty](https://docs.google.com/spreadsheets/d/19cTMA8OERNxTyayb6vQ-gckV6_AGxOo6jXdMgrUPunY/edit?usp=sharing)
+- [8-Obedience](https://docs.google.com/spreadsheets/d/1CcxITPQnFRkVTXI9zSBoapJOZhZdUp-u_MX-IRDeKeQ/edit?usp=sharing)
+- [8-Vigor](https://docs.google.com/spreadsheets/d/1sWjz_KC_qz3azt7esccs8W3_gnfOjqKdXrgXD6UeqM8/edit?usp=sharing)
 
 ## First Grading Period
 
