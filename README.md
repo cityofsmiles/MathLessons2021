@@ -2,7 +2,7 @@
 This is a repository for Grade 8 teaching resources created by the Math teachers of Sauyo High School. The topics are based on the Most Essential Learning Competencies in Mathematics (MELC).
 
 ## Important Links and Resources
-1. Practice answering the flashcards. Make sure your Telegram account is active before clicking the links.
+1. Practice answering the flashcards. 
 - [Flashcard 1](https://forms.gle/Ts5HJsycjh75FJwT6)
 - [Flashcard 2](https://forms.gle/Ts5HJsycjh75FJwT6)
 - [Flashcard 3](https://forms.gle/Ts5HJsycjh75FJwT6)
