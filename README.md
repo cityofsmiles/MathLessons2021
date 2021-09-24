@@ -51,7 +51,7 @@ Class Orientation
 
 ### Sept. 20-24, 2021: Week 2
 Please click your section to answer the Diagnostic Test. Deadline: Sept. 24, 2021
-- [8-Cooperation](https://forms.gle/fNWvKNmNsEVECumK9)
+- [8-Cooperation](https://forms.gle/zx9CTFW4vSPkVMF29)
 - [8-Diligence](https://forms.gle/D8UYDCegUkeWMS619)
 - [8-Honesty](https://forms.gle/TLp8Vto1EyPaMwUu8)
 - [8-Obedience](https://forms.gle/PunBiJrZNEuLy2vFA)
