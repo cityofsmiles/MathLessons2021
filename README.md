@@ -56,12 +56,6 @@ Class Orientation
 - [Download Pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/student-orientation.pdf)
 
 ### Sept. 20-24, 2021: Week 2
-Please click your section to answer the Diagnostic Test. Deadline: Sept. 24, 2021
-- [8-Cooperation](https://forms.gle/zx9CTFW4vSPkVMF29)
-- [8-Diligence](https://forms.gle/D8UYDCegUkeWMS619)
-- [8-Honesty](https://forms.gle/TLp8Vto1EyPaMwUu8)
-- [8-Obedience](https://forms.gle/PunBiJrZNEuLy2vFA)
-- [8-Vigor](https://forms.gle/8p9e2zQ2MnpuwpJS7)
 
 Grading System
 - [Download Pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/grading-system.pdf)
@@ -98,18 +92,18 @@ Factoring the Sum and Difference of Two Cubes
 [Watch video](https://tubedu.org/videos/watch/0af0bf9b-5abf-4261-8926-fe66f2b32560),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-the-sum-and-difference-of-two-cubes.mp4)
 
+### Oct. 4-8, 2021: Week 3 Lesson 5
+Factoring Perfect Square Trinomials
+- [Download Pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/factoring-perfect-square-trinomials.pdf),
+[Watch video](https://tubedu.org/videos/watch/3f5013c5-2b0b-4fec-b043-9a7fd8ec0973),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-perfect-square-trinomials.mp4)
+
 Answer the Quiz 1. Click your section to open the Google Form. Deadline: Oct. 1, 2021
 - [8-Cooperation](https://forms.gle/FVHuCUPj3VSMJwrP8)
 - [8-Diligence](https://forms.gle/M1aPeECqmJdvVuXGA)
 - [8-Honesty](https://forms.gle/udJH18v3wPapyb7w8)
 - [8-Obedience](https://forms.gle/RCrta3oFysNhGD8u6)
 - [8-Vigor](https://forms.gle/naWGb4DiBUxNZwWP8)
-
-### Oct. 4-8, 2021: Week 3 Lesson 5
-Factoring Perfect Square Trinomials
-- [Download Pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/factoring-perfect-square-trinomials.pdf),
-[Watch video](https://tubedu.org/videos/watch/3f5013c5-2b0b-4fec-b043-9a7fd8ec0973),
-[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-perfect-square-trinomials.mp4)
 
 ### Oct. 4-8, 2021: Week 4 Lesson 1
 Factoring Trinomials with 1 as Leading Coefficient
