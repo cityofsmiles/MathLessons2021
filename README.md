@@ -4,9 +4,15 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 ## Important Links and Resources
 1. Practice answering the flashcards. 
 - [Flashcard 1](https://forms.gle/Ts5HJsycjh75FJwT6)
-- [Flashcard 2](https://forms.gle/Ts5HJsycjh75FJwT6)
-- [Flashcard 3](https://forms.gle/Ts5HJsycjh75FJwT6)
-- [Flashcard 4](https://forms.gle/Ts5HJsycjh75FJwT6)
+- [Flashcard 2](https://forms.gle/vCDT5HEuWvn9Y3UM6)
+- [Flashcard 3](https://forms.gle/ZFAG4RrJaLcmVacTA)
+- [Flashcard 4](https://forms.gle/4Xgqiv83LnPJV9Xp7)
+- [Flashcard 5](https://forms.gle/Ts5HJsycjh75FJwT6)
+- [Flashcard 6](https://forms.gle/vCDT5HEuWvn9Y3UM6)
+- [Flashcard 7](https://forms.gle/ZFAG4RrJaLcmVacTA)
+- [Flashcard 8](https://forms.gle/4Xgqiv83LnPJV9Xp7)
+- [Flashcard 9](https://forms.gle/Ts5HJsycjh75FJwT6)
+- [Flashcard 10](https://forms.gle/vCDT5HEuWvn9Y3UM6)
 
 2. Click your section to view your scores in the flashcards.
 - [8-Cooperation](https://docs.google.com/spreadsheets/d/1n39Tqa-07ZWbaQPwMthUICrb_tTkCQs0PlKdjsVGZXA/edit?usp=sharing)
