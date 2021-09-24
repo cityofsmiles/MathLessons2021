@@ -3,10 +3,10 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 
 ## Important Links and Resources
 1. Practice answering the flashcards. Make sure your Telegram account is active before clicking the links.
-- [Flashcard 1](http://t.me/QuizBot?start=3EJ3FAVX)
-- [Flashcard 2](http://t.me/QuizBot?start=RFjRaS7k)
-- [Flashcard 3](http://t.me/QuizBot?start=am4LxLGa)
-- [Flashcard 4](http://t.me/QuizBot?start=Sujykupw)
+- [Flashcard 1](https://forms.gle/Ts5HJsycjh75FJwT6)
+- [Flashcard 2](https://forms.gle/Ts5HJsycjh75FJwT6)
+- [Flashcard 3](https://forms.gle/Ts5HJsycjh75FJwT6)
+- [Flashcard 4](https://forms.gle/Ts5HJsycjh75FJwT6)
 
 2. Click your section to view your scores in the flashcards.
 - [8-Cooperation](https://docs.google.com/spreadsheets/d/1n39Tqa-07ZWbaQPwMthUICrb_tTkCQs0PlKdjsVGZXA/edit?usp=sharing)
@@ -91,6 +91,13 @@ Factoring the Sum and Difference of Two Cubes
 - [Download Pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/factoring-the-sum-and-difference-of-two-cubes.pdf),
 [Watch video](https://tubedu.org/videos/watch/0af0bf9b-5abf-4261-8926-fe66f2b32560),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-the-sum-and-difference-of-two-cubes.mp4)
+
+Answer the Quiz 1. Click your section to open the Google Form. Deadline: Oct. 1, 2021
+- [8-Cooperation](https://forms.gle/Ts5HJsycjh75FJwT6)
+- [8-Diligence](https://forms.gle/M1aPeECqmJdvVuXGA)
+- [8-Honesty](https://forms.gle/udJH18v3wPapyb7w8)
+- [8-Obedience](https://forms.gle/RCrta3oFysNhGD8u6)
+- [8-Vigor](https://forms.gle/naWGb4DiBUxNZwWP8)
 
 ### Oct. 4-8, 2021: Week 4 Lesson 1
 Factoring Perfect Square Trinomials
