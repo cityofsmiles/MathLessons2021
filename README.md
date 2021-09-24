@@ -93,7 +93,7 @@ Factoring the Sum and Difference of Two Cubes
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-the-sum-and-difference-of-two-cubes.mp4)
 
 Answer the Quiz 1. Click your section to open the Google Form. Deadline: Oct. 1, 2021
-- [8-Cooperation](https://forms.gle/Ts5HJsycjh75FJwT6)
+- [8-Cooperation](https://forms.gle/FVHuCUPj3VSMJwrP8)
 - [8-Diligence](https://forms.gle/M1aPeECqmJdvVuXGA)
 - [8-Honesty](https://forms.gle/udJH18v3wPapyb7w8)
 - [8-Obedience](https://forms.gle/RCrta3oFysNhGD8u6)
