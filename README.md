@@ -104,12 +104,13 @@ Factoring Perfect Square Trinomials
 [Watch video](https://tubedu.org/videos/watch/3f5013c5-2b0b-4fec-b043-9a7fd8ec0973),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-perfect-square-trinomials.mp4)
 
-Answer the Quiz 1. Click your section to open the Google Form. Deadline: Oct. 1, 2021
-- [8-Cooperation](https://forms.gle/FVHuCUPj3VSMJwrP8)
-- [8-Diligence](https://forms.gle/M1aPeECqmJdvVuXGA)
-- [8-Honesty](https://forms.gle/udJH18v3wPapyb7w8)
-- [8-Obedience](https://forms.gle/RCrta3oFysNhGD8u6)
-- [8-Vigor](https://forms.gle/naWGb4DiBUxNZwWP8)
+Answer the Remedial Activity for Quiz 1. Click your section to open the Google Form. 
+- [8-Cooperation](https://forms.gle/wZtybfUaGWWP9HBs7)
+- [8-Diligence](https://forms.gle/eLBaZw4E5tVk9v4a7)
+- [8-Honesty](https://forms.gle/fTGom9nynwMBPnpRA)
+- [8-Obedience](https://forms.gle/C4BnrawSoGXgEafu8)
+- [8-Vigor](https://forms.gle/yciauosqiRsps17y8)
+
 
 ### Oct. 4-8, 2021: Week 4 Lesson 1
 Factoring Trinomials with 1 as Leading Coefficient
