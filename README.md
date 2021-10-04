@@ -104,7 +104,7 @@ Factoring Perfect Square Trinomials
 [Watch video](https://tubedu.org/videos/watch/3f5013c5-2b0b-4fec-b043-9a7fd8ec0973),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-perfect-square-trinomials.mp4)
 
-Answer the Remedial Activity for Quiz 1. Click your section to open the Google Form. 
+Answer the Remedial Activity for Quiz 1.1. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/wZtybfUaGWWP9HBs7)
 - [8-Diligence](https://forms.gle/eLBaZw4E5tVk9v4a7)
 - [8-Honesty](https://forms.gle/fTGom9nynwMBPnpRA)
@@ -141,6 +141,13 @@ Simplifying Rational Algebraic Expressions
 - [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/simplifying-rational-algebraic-expressions.pdf),
 [Watch video](https://tubedu.org/videos/watch/e6722b91-2a10-4f1c-a060-0fec06988f0f),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/simplifying-rational-expressions.mp4)
+
+Answer the Quiz 1.2. Click your section to open the Google Form. 
+- [8-Cooperation](https://forms.gle/BvfniggjcauZShd47)
+- [8-Diligence](https://forms.gle/pNHz3CVUtaESyi419)
+- [8-Honesty](https://forms.gle/i4DDSFq3ib9awTsW6)
+- [8-Obedience](https://forms.gle/5Bm23kA1b1SrSFUw8)
+- [8-Vigor](https://forms.gle/bXGCcRKXAGk7mf429)
 
 ### Oct. 11-15, 2021: Week 5 Lesson 1
 Multiplication and Division of Rational Algebraic Expressions
