@@ -15,18 +15,18 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 - [Flashcard 10](https://forms.gle/vCDT5HEuWvn9Y3UM6)
 
 2. Click your section to view your scores in the flashcards.
-- [8-Cooperation](https://drive.google.com/file/d/1q_Fsx-u3zPXWCcJYIHFj6UoRo_HnpF3q/view?usp=sharing)
-- [8-Diligence](https://drive.google.com/file/d/1MZSwOeo-hwbpabclKHMSssLedV1xI5S_/view?usp=sharing)
-- [8-Honesty](https://drive.google.com/file/d/1q7JcpSxe2kN6cAr4UFwJ9z02j0Yl2TkP/view?usp=sharing)
-- [8-Obedience](https://drive.google.com/file/d/1UHt9QzX-Xx720ddgsbuPvzpHlLTUzAyH/view?usp=sharing)
-- [8-Vigor](https://drive.google.com/file/d/1-KBLVlO6TAtmQQTgIT7gf91EOJ2ra16c/view?usp=sharing)
+- [8-Cooperation](https://drive.google.com/file/d/1mg5zwAfOFbfZxp-8IXRm8Hmkw-2lWVYF/view?usp=sharing)
+- [8-Diligence](https://drive.google.com/file/d/15PY8A4f6N3GpUgPuaiipdRq3W0scHeTw/view?usp=sharing)
+- [8-Honesty](https://drive.google.com/file/d/1-bG8dGzHklbMSS61JNukTI5xiNKZuPKB/view?usp=sharing)
+- [8-Obedience](https://drive.google.com/file/d/1dHyWnW0qPjhsFtN8Mgn5wf9PfFuGMNiQ/view?usp=sharing)
+- [8-Vigor](https://drive.google.com/file/d/1mLAwPv79dHgPlj5JO9QoGxRw2-srMjK8/view?usp=sharing)
 
 3. Click your section to view your scores in the Practice Exercises.
-- [8-Cooperation](https://drive.google.com/file/d/13EfvBP3a-lHVpIfTIl-eCQnVMVvajiBQ/view?usp=sharing)
-- [8-Diligence](https://drive.google.com/file/d/1C7omXaBRYoHPGNtqRk1RHMlMsTraOZlB/view?usp=sharing)
-- [8-Honesty](https://drive.google.com/file/d/1j4JiSpdgWYrXfivYer8yz-wYeZdp1mWz/view?usp=sharing)
-- [8-Obedience](https://drive.google.com/file/d/1__f5yhV4e39RC35BS4Cy4q__pO7_a7gB/view?usp=sharing)
-- [8-Vigor](https://drive.google.com/file/d/1UY2AaHm2pvXv1dANY0gZHYv4x__MCcrH/view?usp=sharing)
+- [8-Cooperation](https://drive.google.com/file/d/1MTsuhD8pX4a5a9b0WiHq3HxJgu0YPxbx/view?usp=sharing)
+- [8-Diligence](https://drive.google.com/file/d/1lns5NETh85HcGAGb4qJTSSxuyubOIMxt/view?usp=sharing)
+- [8-Honesty](https://drive.google.com/file/d/1ZYNAOvUofQwbWeEx9zwchS5dllgioiAl/view?usp=sharing)
+- [8-Obedience](https://drive.google.com/file/d/14YbwPI3f9t1n9VLNFZEb23JSXdoH8Ls8/view?usp=sharing)
+- [8-Vigor](https://drive.google.com/file/d/19XrFeZ0Vh0u5Vyo0voU3dXeoob8tsFHZ/view?usp=sharing)
 
 4. Click your section to view your recitation results for the present quarter.
 - [8-Cooperation](https://drive.google.com/file/d/1LVdXporMZ-GdvJyMQQsHXHGE-kOVySbw/view?usp=sharing)  
