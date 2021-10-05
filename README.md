@@ -7,12 +7,12 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 - [Flashcard 2](https://forms.gle/vCDT5HEuWvn9Y3UM6)
 - [Flashcard 3](https://forms.gle/ZFAG4RrJaLcmVacTA)
 - [Flashcard 4](https://forms.gle/4Xgqiv83LnPJV9Xp7)
-- [Flashcard 5](https://forms.gle/Ts5HJsycjh75FJwT6)
-- [Flashcard 6](https://forms.gle/vCDT5HEuWvn9Y3UM6)
-- [Flashcard 7](https://forms.gle/ZFAG4RrJaLcmVacTA)
-- [Flashcard 8](https://forms.gle/4Xgqiv83LnPJV9Xp7)
-- [Flashcard 9](https://forms.gle/Ts5HJsycjh75FJwT6)
-- [Flashcard 10](https://forms.gle/vCDT5HEuWvn9Y3UM6)
+- [Flashcard 5](https://forms.gle/NhDLmUxwqGmEVdqHA)
+- [Flashcard 6](https://forms.gle/MsV3Qv7iouAE9QLi7)
+- [Flashcard 7](https://forms.gle/qjzHidYt6DNdd3gy8)
+- [Flashcard 8](https://forms.gle/Q3PXFCFevAYLek4WA)
+- [Flashcard 9](https://forms.gle/623MRkAh2NAGkJEg7)
+- [Flashcard 10](https://forms.gle/GPaN5hzkfx4nB7So6)
 
 2. Click your section to view your scores in the flashcards.
 - [8-Cooperation](https://drive.google.com/file/d/1mg5zwAfOFbfZxp-8IXRm8Hmkw-2lWVYF/view?usp=sharing)
