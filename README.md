@@ -42,6 +42,13 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 - [8-Obedience](https://docs.google.com/spreadsheets/d/1FEHMjeImF2o6vge0ILv48bh4NWvfY9p5P71jJZbAEA8/edit?usp=sharing)
 - [8-Vigor](https://docs.google.com/spreadsheets/d/1gOnKHoVurfetduo2FpYA-QuJGAcgGb220vQcjwN6k8M/edit?usp=sharing)
 
+6. Click your section to view your quiz results.
+- [8-Cooperation](https://drive.google.com/file/d/1gQ6jsbiK4PjLXB5fRQN6SQXWGqwLjKdO/view?usp=sharing)
+- [8-Diligence](https://drive.google.com/file/d/1WWpl8fEP064yfEYczm89stuW9cokbnzH/view?usp=sharing)
+- [8-Honesty](https://drive.google.com/file/d/1sgcxVZc1sbywPeNFxmlgTpgsP0Fw8Goy/view?usp=sharing)
+- [8-Obedience](https://drive.google.com/file/d/1Tv4_umM-GZ-JEQccIMi7x2C7RYFSL7zb/view?usp=sharing)
+- [8-Vigor](https://drive.google.com/file/d/1OpgkMbjNrdg5FoKBVLyTewprWdNy_F88/view?usp=sharing)
+
 ## First Grading Period
 
 ### Review Lessons (Video lessons by Ma'am Emelyn Cañares)
