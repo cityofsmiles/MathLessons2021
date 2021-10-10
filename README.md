@@ -149,12 +149,13 @@ Simplifying Rational Algebraic Expressions
 [Watch video](https://tubedu.org/videos/watch/e6722b91-2a10-4f1c-a060-0fec06988f0f),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/simplifying-rational-expressions.mp4)
 
-Answer the **Quiz 1.2**. Click your section to open the Google Form. Deadline: Oct. 9, 2021
-- [8-Cooperation](https://forms.gle/BvfniggjcauZShd47)
-- [8-Diligence](https://forms.gle/pNHz3CVUtaESyi419)
-- [8-Honesty](https://forms.gle/i4DDSFq3ib9awTsW6)
-- [8-Obedience](https://forms.gle/5Bm23kA1b1SrSFUw8)
-- [8-Vigor](https://forms.gle/bXGCcRKXAGk7mf429)
+Answer the **Remedial Activity for Quiz 1.2**. Click your section to open the Google Form.
+- [8-Cooperation](https://forms.gle/Lre6V9HzHBd6dt4T8)
+- [8-Diligence](https://forms.gle/5YqkmEyZq1o1ecxK6)
+- [8-Honesty](https://forms.gle/UMGRqgvz1imUnSy78)
+- [8-Obedience](https://forms.gle/1rAyJxgRScecraRK7)
+- [8-Vigor](https://forms.gle/t8utxeBhNUdCzCSR8)
+
 
 ### Oct. 11-15, 2021: Week 5 Lesson 1
 Multiplication and Division of Rational Algebraic Expressions
