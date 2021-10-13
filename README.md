@@ -187,7 +187,7 @@ Linear Equations in Two Variables
 [Watch video](https://tubedu.org/videos/watch/7dfbb3ab-8416-491b-91e8-e32a6f92d15a),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/linear-equations-in-two-variables.mp4)
 
-Answer the **Quiz 1.3**. Click your section to open the Google Form.
+Answer the **Quiz 1.3**. Click your section to open the Google Form. Deadline: Oct. 16, 2021.
 - [8-Cooperation](https://forms.gle/N4NwDSF5rqKwV8ag8)
 - [8-Diligence](https://forms.gle/mGJeWuvF41UdGpmg6)
 - [8-Honesty](https://forms.gle/Wv64TP8KazxmWo9v9)
