@@ -187,6 +187,14 @@ Linear Equations in Two Variables
 [Watch video](https://tubedu.org/videos/watch/7dfbb3ab-8416-491b-91e8-e32a6f92d15a),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/linear-equations-in-two-variables.mp4)
 
+Answer the **Quiz 1.3**. Click your section to open the Google Form.
+- [8-Cooperation](https://forms.gle/N4NwDSF5rqKwV8ag8)
+- [8-Diligence](https://forms.gle/mGJeWuvF41UdGpmg6)
+- [8-Honesty](https://forms.gle/Wv64TP8KazxmWo9v9)
+- [8-Obedience](https://forms.gle/auKWu16kW8pWKc7x8)
+- [8-Vigor](https://forms.gle/TQBVAYi3yxvCrzFj6)
+
+
 ### Oct. 18-22, 2021: Week 6 Lesson 1
 Slope of a Line
 - [Download pdf](https://github.com/cityofsmiles/MathResources/raw/main/1st-grading/slope-of-a-line.pdf),
