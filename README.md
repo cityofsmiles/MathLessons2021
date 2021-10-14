@@ -28,21 +28,7 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 - [8-Obedience](https://drive.google.com/file/d/14YbwPI3f9t1n9VLNFZEb23JSXdoH8Ls8/view?usp=sharing)
 - [8-Vigor](https://drive.google.com/file/d/19XrFeZ0Vh0u5Vyo0voU3dXeoob8tsFHZ/view?usp=sharing)
 
-4. Click your section to view your recitation results for the present quarter.
-- [8-Cooperation](https://drive.google.com/file/d/1LVdXporMZ-GdvJyMQQsHXHGE-kOVySbw/view?usp=sharing)  
-- [8-Diligence](https://drive.google.com/file/d/1xK5INeWj0n2z7iJtKRFnIlKFFq1Ck3Mh/view?usp=sharing)
-- [8-Honesty](https://drive.google.com/file/d/1ibWAlzMx38EsV856GV2yQhAi6Vn9YX_J/view?usp=sharing)
-- [8-Obedience](https://drive.google.com/file/d/1avjp4mPa04zPmEvjtgJNOKzhpGvRZn9Y/view?usp=sharing)
-- [8-Vigor](https://drive.google.com/file/d/19ktofCBdNhdN-a4sg_9TvPiOxGkoI9P8/view?usp=sharing)
-
-5. Click your section to view your attendance records.
-- [8-Cooperation](https://docs.google.com/spreadsheets/d/1KOVWiTNdf7y1t73PGqFCgzOCPE-L_P1eKVkZCkOyfHw/edit?usp=sharing)
-- [8-Diligence](https://docs.google.com/spreadsheets/d/1HMCIA49_QA8i3nKUHP3IEoOECdwhcfL886OOdbQ8wFE/edit?usp=sharing)
-- [8-Honesty](https://docs.google.com/spreadsheets/d/1rxQFhbpJ0wYjvPZMdiAwGOuDpXUzlHo2YrYDmaRCneo/edit?usp=sharing)
-- [8-Obedience](https://docs.google.com/spreadsheets/d/1FEHMjeImF2o6vge0ILv48bh4NWvfY9p5P71jJZbAEA8/edit?usp=sharing)
-- [8-Vigor](https://docs.google.com/spreadsheets/d/1gOnKHoVurfetduo2FpYA-QuJGAcgGb220vQcjwN6k8M/edit?usp=sharing)
-
-6. Click your section to view your quiz results.
+4. Click your section to view your quiz results.
 - [8-Cooperation](https://drive.google.com/drive/folders/1leAnseJLxr9Q_FBk4Pv7uHUP_3ma7M0l?usp=sharing)
 - [8-Diligence](https://drive.google.com/drive/folders/1dlauyEw7yMtk5rMxC6_ohYYzmVYs_oOd?usp=sharing)
 - [8-Honesty](https://drive.google.com/drive/folders/1rNicOhBk_8BQYmbIuA-8lXLjrVE3U2DR?usp=sharing)
