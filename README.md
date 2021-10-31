@@ -247,12 +247,12 @@ Graphing Systems of Linear Equations
 [Watch video](https://tubedu.org/videos/watch/2a814fba-35af-4d76-9c06-d1319086f598),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/graphing-systems-of-linear-equations.mp4)
 
-Answer the **Quiz 1.5**. Click your section to open the Google Form. Deadline: Oct. 30, 2021
-- [8-Cooperation](https://forms.gle/jWTHqvJPwgoTuqnv8)
-- [8-Diligence](https://forms.gle/3Q7A9a37RWChDojVA)
-- [8-Honesty](https://forms.gle/WLGy81Z6DqJ9BYu98)
-- [8-Obedience](https://forms.gle/aHkrgyxZb1zRyMGn6)
-- [8-Vigor](https://forms.gle/UZqo2GMoUgjercY86)
+Answer the **Remedial Activity for Quiz 1.5**. Click your section to open the Google Form. 
+- [8-Cooperation](https://forms.gle/jiyTTo7FBJCG7Bn68)
+- [8-Diligence](https://forms.gle/vXRoeSE753UVgDZk9)
+- [8-Honesty](https://forms.gle/gUU8AtYvuXwsH9pL7)
+- [8-Obedience](https://forms.gle/cGwNYtxuuv2iM6yY7)
+- [8-Vigor](https://forms.gle/GgizjQb1qJnq9CHP7)
 
 ### Nov. 1-5, 2021: Week 8 Lesson 1
 Categorizing Systems of Linear Equations
