@@ -291,8 +291,90 @@ Answer the **Quiz 1.6**. Click your section to open the Google Form. Deadline: N
 - [8-Obedience](https://forms.gle/hetWAmdB9BbYFHyu6)
 - [8-Vigor](https://forms.gle/8piXZzznHVD62x4o6)
 
+### Nov. 8-12, 2021: Week 9
+Answer the **Summative Test**. Click your section to open the Google Form. Deadline: Nov. 13, 2021
+- [8-Cooperation](https://forms.gle/S6AAd1cXGFARuyUU7)
+- [8-Diligence](https://forms.gle/8edwZoXofd4u5vSM9)
+- [8-Honesty](https://forms.gle/QAjDcY7o9LbPnyRL6)
+- [8-Obedience](https://forms.gle/4NhAURs18earMYGw8)
+- [8-Vigor](https://forms.gle/Xd1vR2wFoKCEByUD6)
 
 
+## Second Grading Period
 
+### Week 1 Lesson 1
+ Linear Inequalities in Two Variables 
+- [Watch video](https://tubedu.org/videos/watch/4c4743df-4212-4fb2-9456-448608aa80de), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/linear-inequalities-in-two-variables.mp4)
 
+### Week 1 Lesson 2
+ Graphs of Linear Inequalities in Two Variables 
+- [Watch video](https://tubedu.org/videos/watch/27d33d3a-c20b-4123-8a74-2a7ad6cfd06a), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/graph-of-linear-inequalities-in-two-variables.mp4)
+
+### Week 1 Lesson 3
+ Solving Problems Involving Linear Inequalities in Two Variables 
+- [Watch video](https://tubedu.org/videos/watch/b4f58350-6562-4f27-9a49-b00d2e69d455), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/solving-problems-involving-linear-inequalities.mp4)
+
+### Week 2 Lesson 1
+ Systems of Linear Inequalities in Two Variables 
+- [Watch video](https://tubedu.org/videos/watch/4e6d4e60-a93e-4403-82eb-3bab3df4d5ce), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/systems-of-linear-inequalities.mp4)
+
+### Week 2 Lesson 2
+ Graphical Solutions of Systems of Linear Inequalities in Two Variables 
+- [Watch video](https://tubedu.org/videos/watch/92b57616-40df-4c4a-9f0d-bfa6ecbb09be), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/graphing-systems-of-linear-inequalities.mp4)
+
+### Week 2 Lesson 3
+ Solving Problems Involving Systems of Linear Inequalities in Two Variables 
+- [Watch video](https://tubedu.org/videos/watch/a111d583-628f-4a2c-8f8c-6f804a904775), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/solving-problems-involving-systems-of-linear-inequalities.mp4)
+
+### Week 3 Lesson 1
+ Representations of Relations 
+- [Watch video](https://tubedu.org/videos/watch/43523efc-feb7-46e0-a6d1-ad248f466a69), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/representations-of-relations.mp4)
+
+### Week 3 Lesson 2
+ Functions and Relations 
+- [Watch video part 1](https://tubedu.org/videos/watch/f8b3d0e5-6b8f-4667-ba12-af3b0e2248ab), [Watch video part 2](https://tubedu.org/videos/watch/1bc6334c-ca31-4061-aeac-0432954146b3), [Download video part 1](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/function-and-relation-part1.mp4) , [Download video part 2](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/function-and-relation-part2.mp4)
+
+### Week 3 Lesson 3
+ Independent and Dependent Variables 
+- [Watch video](https://tubedu.org/videos/watch/3cba6ea1-36c5-449d-a350-a59823671a45), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/dependent-and-independent-variables.mp4)
+
+### Week 4 Lesson 1
+ Domain and Range of Functions 
+- [Watch video part 1](https://tubedu.org/videos/watch/e9a79506-25d4-4d6f-b9a2-17014148d3d1), [Watch video part 2](https://tubedu.org/videos/watch/5b6fc7d1-8ecf-422f-b6bf-76c7c03d99b3), [Download video part 1](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/domain-and-range-of-functions-part1.mp4), [Download video part 2](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/domain-and-range-of-functions-part2.mp4)
+
+### Week 4 Lesson 2
+ Illustrating Linear Functions 
+- [Watch video](https://tubedu.org/videos/watch/9f3d6e76-8425-40d1-9e2b-2964981bfad8), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/illustrating-linear-functions.mp4)
+
+### Week 4 Lesson 3
+ Graphing Linear Functions 
+- [Watch video](https://tubedu.org/videos/watch/2126f2c2-7c53-4980-aabb-2e081ddb2a6c), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/graphing-linear-functions.mp4)
+
+### Week 5 Lesson 1
+ Solving Problems Involving Linear Functions 
+- [Watch video](https://tubedu.org/videos/watch/67696084-256d-4212-a7da-be6bf8b0e407), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/solving-problems-involving-linear-functions.mp4)
+
+### Week 5 Lesson 2
+ If-Then Statements 
+- [Watch video](https://tubedu.org/videos/watch/9e3f45b7-0679-4c42-a8cc-86ccbbe6b21f), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/if-then-statements.mp4)
+
+### Week 6 Lesson 1
+ Inverse, Converse, and Contrapositive Statements 
+- [Watch video](https://tubedu.org/videos/watch/6e4bc2e5-e8a3-489f-ab09-46077df51a92), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/inverse-converse-and-contrapositive-statements.mp4)
+
+### Week 7 Lesson 1
+ Logical Equivalence of Statements 
+- [Watch video](https://tubedu.org/videos/watch/541efbb6-6fce-4ddd-9574-a443415c3fc8), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/logical-equivalence-of-statements.mp4)
+
+### Week 8 Lesson 1
+ Inductive and Deductive Reasoning 
+- [Watch video](https://tubedu.org/videos/watch/16479370-abeb-4617-b4eb-525fb4c610e0), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/inductive-and-deductive-reasoning.mp4)
+
+### Week 8 Lesson 2
+ Writing Proofs 
+- [Watch video part 1](https://tubedu.org/videos/watch/cedb2a81-e3ca-4148-9135-0adc792553f7), [Watch video part 2](https://tubedu.org/videos/watch/03eb38b7-6c9c-427e-bf82-9ab799720c95), [Download video part 1](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/writing-proofs-part1.mp4), [Download video part 2](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/writing-proofs-part2.mp4)
+
+### Week 8 Lesson 3
+ Direct and Indirect Proofs 
+- [Watch video](https://tubedu.org/videos/watch/5e5f54dc-e6fa-4074-8f48-6ef7b03d260c), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/direct-and-indirect-proofs.mp4)
 
