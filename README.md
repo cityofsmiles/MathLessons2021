@@ -284,12 +284,12 @@ Solving Word Problems Involving Systems of Linear Equations in Two Variables
 [Watch video](https://tubedu.org/videos/watch/31de765d-c0ec-4b7d-8350-be3af1d5e60e),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-systems-of-linear-equations.mp4)
 
-Answer the **Quiz 1.6**. Click your section to open the Google Form. Deadline: Nov. 6, 2021
-- [8-Cooperation](https://forms.gle/dcL8UVRe5UqLNxi7A)
-- [8-Diligence](https://forms.gle/XjZH41DVsx838Dfs9)
-- [8-Honesty](https://forms.gle/Zhdtx8yXkUmBrDgcA)
-- [8-Obedience](https://forms.gle/hetWAmdB9BbYFHyu6)
-- [8-Vigor](https://forms.gle/8piXZzznHVD62x4o6)
+Answer the **Remedial Activity for Quiz 1.6**. Click your section to open the Google Form. 
+- [8-Cooperation](https://forms.gle/Nzd17csdbtkWoZjL7)
+- [8-Diligence](https://forms.gle/eg7fzTbt75wRNsei9)
+- [8-Honesty](https://forms.gle/cGSJES3Xt2ZVK3Rm6)
+- [8-Obedience](https://forms.gle/uYrqT9apyJaAZZSt6)
+- [8-Vigor](https://forms.gle/V9sFJ1AxB5FJSE336)
 
 ### Nov. 8-12, 2021: Week 9
 Answer the **Summative Test**. Click your section to open the Google Form. Deadline: Nov. 13, 2021
