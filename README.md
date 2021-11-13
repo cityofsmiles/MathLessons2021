@@ -35,6 +35,14 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 - [8-Obedience](https://drive.google.com/drive/folders/13j34luol3tj4iiTUZkzZiCrWNb46qcNR?usp=sharing)
 - [8-Vigor](https://drive.google.com/drive/folders/1p2p2P-RKMSAsfwDNWqpsNGfsZYnPnvLQ?usp=sharing)
 
+5. For 8-Obedience students, download your modules in RHGP.
+- [Quarter 1 Module 1](https://github.com/cityofsmiles/MathResources/raw/main/others/HG-G8-Q1-Module-1-RTP.pdf)
+- [Quarter 1 Module 2](https://github.com/cityofsmiles/MathResources/raw/main/others/HG-G8-Q1-Module-2-RTP.pdf)
+- [Quarter 1 Module 3](https://github.com/cityofsmiles/MathResources/raw/main/others/HG-G8-Q1-Module-3-RTP.pdf)
+- [Quarter 2 Module 4](https://github.com/cityofsmiles/MathResources/raw/main/others/HG-G8-Q2-Module-4-RTP.pdf)
+- [Quarter 2 Module 5](https://github.com/cityofsmiles/MathResources/raw/main/others/HG-G8-Q2-Module-5-RTP.pdf)
+- [Quarter 2 Module 6](https://github.com/cityofsmiles/MathResources/raw/main/others/HG-G8-Q2-Module-6-RTP.pdf)
+
 ## Second Grading Period
 
 ### Week 1 Lesson 1
