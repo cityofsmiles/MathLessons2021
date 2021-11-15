@@ -47,6 +47,7 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 - [Submission for Quarter 1 Module 1](https://forms.gle/SD1SJBkXzQbk6HEWA)
 - [Submission for Quarter 1 Module 2](https://forms.gle/LdoYsU6gTSnx67mHA)
 - [Submission for Quarter 1 Module 3](https://forms.gle/TrdjZ56ZQGj2rsoN7)
+- [Submission for Quarter 2 Module 4](https://forms.gle/C7EEFfSjemne4YUu6)
 
 
 ## Second Grading Period
