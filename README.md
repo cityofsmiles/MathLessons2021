@@ -15,11 +15,11 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 - [Flashcard 10](https://forms.gle/GPaN5hzkfx4nB7So6)
 
 2. Click your section to view your scores in the flashcards.
-- [8-Cooperation](https://drive.google.com/file/d/1mg5zwAfOFbfZxp-8IXRm8Hmkw-2lWVYF/view?usp=sharing)
-- [8-Diligence](https://drive.google.com/file/d/15PY8A4f6N3GpUgPuaiipdRq3W0scHeTw/view?usp=sharing)
-- [8-Honesty](https://drive.google.com/file/d/1-bG8dGzHklbMSS61JNukTI5xiNKZuPKB/view?usp=sharing)
-- [8-Obedience](https://drive.google.com/file/d/1dHyWnW0qPjhsFtN8Mgn5wf9PfFuGMNiQ/view?usp=sharing)
-- [8-Vigor](https://drive.google.com/file/d/1mLAwPv79dHgPlj5JO9QoGxRw2-srMjK8/view?usp=sharing)
+- [8-Cooperation](https://drive.google.com/file/d/1YqdVwetdLaa6o5HGEkiss7iFEbcCN8ql/view?usp=sharing)
+- [8-Diligence](https://drive.google.com/file/d/1_eweh5rPmweN0lQHGvhuTVDzZHHHNv5F/view?usp=sharing)
+- [8-Honesty](https://drive.google.com/file/d/1ffN2BkeBvG-l4zc9zhpjc7Zicko_1uoE/view?usp=sharing)
+- [8-Obedience](https://drive.google.com/file/d/1cWWqZau88_LHqQGR0EJbRotPa39Qru9c/view?usp=sharing)
+- [8-Vigor](https://drive.google.com/file/d/19uBSBAHCT_O1KgxURAXiv_v1DRKH0LIh/view?usp=sharing)
 
 3. Click your section to view your scores in the Practice Exercises.
 - [8-Cooperation](https://drive.google.com/file/d/1MTsuhD8pX4a5a9b0WiHq3HxJgu0YPxbx/view?usp=sharing)
