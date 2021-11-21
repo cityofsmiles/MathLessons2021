@@ -29,11 +29,11 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 - [8-Vigor](https://drive.google.com/file/d/19XrFeZ0Vh0u5Vyo0voU3dXeoob8tsFHZ/view?usp=sharing)
 
 4. Click your section to view your quiz results.
-- [8-Cooperation](https://drive.google.com/drive/folders/1leAnseJLxr9Q_FBk4Pv7uHUP_3ma7M0l?usp=sharing)
-- [8-Diligence](https://drive.google.com/drive/folders/1dlauyEw7yMtk5rMxC6_ohYYzmVYs_oOd?usp=sharing)
-- [8-Honesty](https://drive.google.com/drive/folders/1rNicOhBk_8BQYmbIuA-8lXLjrVE3U2DR?usp=sharing)
-- [8-Obedience](https://drive.google.com/drive/folders/13j34luol3tj4iiTUZkzZiCrWNb46qcNR?usp=sharing)
-- [8-Vigor](https://drive.google.com/drive/folders/1p2p2P-RKMSAsfwDNWqpsNGfsZYnPnvLQ?usp=sharing)
+- [8-Cooperation](https://drive.google.com/drive/folders/14cAVsfsvDbHfm5FDMSq5QyOeglovkMFq?usp=sharing)
+- [8-Diligence](https://drive.google.com/drive/folders/1hpYY6r1MDlLl6Ka4olhNTq56b75s967B?usp=sharing)
+- [8-Honesty](https://drive.google.com/drive/folders/14d68KfhScJ2RM8E3RfQ77ICF1K69izj3?usp=sharing)
+- [8-Obedience](https://drive.google.com/drive/folders/1c1_QpKCBtbgXJZbfCBWeSI9odgZrdSZC?usp=sharing)
+- [8-Vigor](https://drive.google.com/drive/folders/1VsILQOvBwLyMCBVH72VKBPLkt9QJDELM?usp=sharing)
 
 5. For 8-Obedience students, download your modules in RHGP.
 - [Quarter 1 Module 1](https://github.com/cityofsmiles/MathResources/raw/main/others/HG-G8-Q1-Module-1-RTP.pdf)
