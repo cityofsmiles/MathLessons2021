@@ -65,13 +65,12 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
  Solving Problems Involving Linear Inequalities in Two Variables 
 - [Watch video](https://tubedu.org/videos/watch/b4f58350-6562-4f27-9a49-b00d2e69d455), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/solving-problems-involving-linear-inequalities.mp4)
 
-Answer the **Quiz 2.1**. Click your section to open the Google Form. Deadline: Nov. 20, 2021
-- [8-Cooperation](https://forms.gle/xDMXpx6v8fmPWXQP9)
-- [8-Diligence](https://forms.gle/pLGadFvjw9daG8o29)
-- [8-Honesty](https://forms.gle/ynUSRocvo1P2nPzq7)
-- [8-Obedience](https://forms.gle/jsnSHxzT1rsDcbnr8)
-- [8-Vigor](https://forms.gle/W2oH9SW9zZyTuwmv8)
-
+Answer the **Remedial Activity 2.1**. Click your section to open the Google Form. 
+- [8-Cooperation](https://forms.gle/4eF33wFtgijwkQHM9)
+- [8-Diligence](https://forms.gle/QWByL76V4LJzEhif6)
+- [8-Honesty](https://forms.gle/zYSfv8qnLoxcZFY77)
+- [8-Obedience](https://forms.gle/audXoRZyEhQwTAyR8)
+- [8-Vigor](https://forms.gle/23zonmtNgoixM1yJ7)
 
 ### Week 2 Lesson 1
  Systems of Linear Inequalities in Two Variables 
