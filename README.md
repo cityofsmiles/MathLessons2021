@@ -84,12 +84,12 @@ Answer the **Remedial Activity 2.1**. Click your section to open the Google Form
  Solving Problems Involving Systems of Linear Inequalities in Two Variables 
 - [Watch video](https://tubedu.org/videos/watch/a111d583-628f-4a2c-8f8c-6f804a904775), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/solving-problems-involving-systems-of-linear-inequalities.mp4)
 
-Answer the **Quiz 2.2**. Click your section to open the Google Form. Deadline: Nov. 27, 2021
-- [8-Cooperation](https://forms.gle/fs3Z9NRjSLYZmNWZA)
-- [8-Diligence](https://forms.gle/mXUb3AoMQQa6rDd36)
-- [8-Honesty](https://forms.gle/jumFvnC4n2MgR7hS9)
-- [8-Obedience](https://forms.gle/EKCB1LcbhZZhyfkL8)
-- [8-Vigor](https://forms.gle/PxfE5V9gJ76CXrJq5)
+Answer the **Remedial Activity 2.2**. Click your section to open the Google Form. 
+- [8-Cooperation](https://forms.gle/LBz1Zv6n8GATKp8U7)
+- [8-Diligence](https://forms.gle/SYiZeSdfBefm6bcd6)
+- [8-Honesty](https://forms.gle/kPepPiwgGX3gkSwe6)
+- [8-Obedience](https://forms.gle/Pt1hdP9LCaYnyTQM7)
+- [8-Vigor](https://forms.gle/4XrtujUxQLyaL9zg6)
 
 ### Week 3 Lesson 1
  Representations of Relations 
