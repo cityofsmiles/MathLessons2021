@@ -104,6 +104,13 @@ Answer the **Remedial Activity 2.2**. Click your section to open the Google Form
  Independent and Dependent Variables 
 - [Watch video](https://tubedu.org/videos/watch/3cba6ea1-36c5-449d-a350-a59823671a45), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/dependent-and-independent-variables.mp4)
 
+Answer the **Quiz 2.3**. Click your section to open the Google Form. Deadline: Dec. 4, 2021
+- [8-Cooperation](https://forms.gle/82N6h4zWNEgja357A)
+- [8-Diligence](https://forms.gle/4TNuejuR6NDNUoF27)
+- [8-Honesty](https://forms.gle/WjvZrdGHLWrjcBtd8)
+- [8-Obedience](https://forms.gle/HfVohd57x6Rx3gY97)
+- [8-Vigor](https://forms.gle/2GWLhJKbGx9e5yYQA)
+
 ### Week 4 Lesson 1
  Domain and Range of Functions 
 - [Watch video part 1](https://tubedu.org/videos/watch/e9a79506-25d4-4d6f-b9a2-17014148d3d1), [Watch video part 2](https://tubedu.org/videos/watch/5b6fc7d1-8ecf-422f-b6bf-76c7c03d99b3), [Download video part 1](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/domain-and-range-of-functions-part1.mp4), [Download video part 2](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/domain-and-range-of-functions-part2.mp4)
