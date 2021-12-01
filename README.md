@@ -123,6 +123,13 @@ Answer the **Quiz 2.3**. Click your section to open the Google Form. Deadline: D
  Graphing Linear Functions 
 - [Watch video](https://tubedu.org/videos/watch/2126f2c2-7c53-4980-aabb-2e081ddb2a6c), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/graphing-linear-functions.mp4)
 
+Answer the **Quiz 2.4**. Click your section to open the Google Form. Deadline: Dec. 11, 2021
+- [8-Cooperation](https://forms.gle/f2SXG3dXa598xX8e9)
+- [8-Diligence](https://forms.gle/a4FyAxFaZop7eVeL9)
+- [8-Honesty](https://forms.gle/Z1m5QYaaS6rDD4kw5)
+- [8-Obedience](https://forms.gle/tSgCqLnxxt4tWE2n6)
+- [8-Vigor](https://forms.gle/sjpN5RFuWtrjA5gS9)
+
 ### Week 5 Lesson 1
  Solving Problems Involving Linear Functions 
 - [Watch video](https://tubedu.org/videos/watch/67696084-256d-4212-a7da-be6bf8b0e407), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/solving-problems-involving-linear-functions.mp4)
