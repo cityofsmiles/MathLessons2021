@@ -138,6 +138,13 @@ Answer the **Quiz 2.4**. Click your section to open the Google Form. Deadline: D
  If-Then Statements 
 - [Watch video](https://tubedu.org/videos/watch/9e3f45b7-0679-4c42-a8cc-86ccbbe6b21f), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/if-then-statements.mp4)
 
+Answer the **Quiz 2.5**. Click your section to open the Google Form. Deadline: Dec. 18, 2021
+- [8-Cooperation](https://forms.gle/wmhDqGNkpdvcEEzA9)
+- [8-Diligence](https://forms.gle/WUHVYi5FpLcto4vj8)
+- [8-Honesty](https://forms.gle/cF8EyYkGbzcuS2MT8)
+- [8-Obedience](https://forms.gle/kYACsPByHT8csnx78)
+- [8-Vigor](https://forms.gle/gNFhH9QsfNopGfHj9)
+
 ### Week 6 Lesson 1
  Inverse, Converse, and Contrapositive Statements 
 - [Watch video](https://tubedu.org/videos/watch/6e4bc2e5-e8a3-489f-ab09-46077df51a92), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/inverse-converse-and-contrapositive-statements.mp4)
