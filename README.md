@@ -138,6 +138,10 @@ Answer the **Quiz 2.4**. Click your section to open the Google Form. Deadline: D
  If-Then Statements 
 - [Watch video](https://tubedu.org/videos/watch/9e3f45b7-0679-4c42-a8cc-86ccbbe6b21f), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/if-then-statements.mp4)
 
+### Week 5 Lesson 3
+ Inverse, Converse, and Contrapositive Statements 
+- [Watch video](https://tubedu.org/videos/watch/6e4bc2e5-e8a3-489f-ab09-46077df51a92), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/inverse-converse-and-contrapositive-statements.mp4)
+
 Answer the **Quiz 2.5**. Click your section to open the Google Form. Deadline: Dec. 18, 2021
 - [8-Cooperation](https://forms.gle/wmhDqGNkpdvcEEzA9)
 - [8-Diligence](https://forms.gle/WUHVYi5FpLcto4vj8)
@@ -146,22 +150,18 @@ Answer the **Quiz 2.5**. Click your section to open the Google Form. Deadline: D
 - [8-Vigor](https://forms.gle/gNFhH9QsfNopGfHj9)
 
 ### Week 6 Lesson 1
- Inverse, Converse, and Contrapositive Statements 
-- [Watch video](https://tubedu.org/videos/watch/6e4bc2e5-e8a3-489f-ab09-46077df51a92), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/inverse-converse-and-contrapositive-statements.mp4)
-
-### Week 7 Lesson 1
  Logical Equivalence of Statements 
 - [Watch video](https://tubedu.org/videos/watch/541efbb6-6fce-4ddd-9574-a443415c3fc8), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/logical-equivalence-of-statements.mp4)
 
-### Week 8 Lesson 1
+### Week 7 Lesson 1
  Inductive and Deductive Reasoning 
 - [Watch video](https://tubedu.org/videos/watch/16479370-abeb-4617-b4eb-525fb4c610e0), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/inductive-and-deductive-reasoning.mp4)
 
-### Week 8 Lesson 2
+### Week 8 Lesson 1
  Writing Proofs 
 - [Watch video part 1](https://tubedu.org/videos/watch/cedb2a81-e3ca-4148-9135-0adc792553f7), [Watch video part 2](https://tubedu.org/videos/watch/03eb38b7-6c9c-427e-bf82-9ab799720c95), [Download video part 1](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/writing-proofs-part1.mp4), [Download video part 2](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/writing-proofs-part2.mp4)
 
-### Week 8 Lesson 3
+### Week 8 Lesson 2
  Direct and Indirect Proofs 
 - [Watch video](https://tubedu.org/videos/watch/5e5f54dc-e6fa-4074-8f48-6ef7b03d260c), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/direct-and-indirect-proofs.mp4)
 
