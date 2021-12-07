@@ -157,6 +157,14 @@ Answer the **Quiz 2.5**. Click your section to open the Google Form. Deadline: D
  Inductive and Deductive Reasoning 
 - [Watch video](https://tubedu.org/videos/watch/16479370-abeb-4617-b4eb-525fb4c610e0), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/inductive-and-deductive-reasoning.mp4)
 
+Answer the **Quiz 2.6**. Click your section to open the Google Form. Deadline: Jan. 8, 2022
+- [8-Cooperation](https://forms.gle/f4Y3PnoixJa3uWby6)
+- [8-Diligence](https://forms.gle/JUCySTrHUrcamxiz9)
+- [8-Honesty](https://forms.gle/3bFQTHUUWTL35sAb8)
+- [8-Obedience](https://forms.gle/mBUxS937soPQAxJ89)
+- [8-Vigor](https://forms.gle/J2fukAq1hbTdWEdR7)
+
+
 ### Week 7 Lesson 1
  Writing Proofs 
 - [Watch video part 1](https://tubedu.org/videos/watch/cedb2a81-e3ca-4148-9135-0adc792553f7), [Watch video part 2](https://tubedu.org/videos/watch/03eb38b7-6c9c-427e-bf82-9ab799720c95), [Download video part 1](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/writing-proofs-part1.mp4), [Download video part 2](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/writing-proofs-part2.mp4)
