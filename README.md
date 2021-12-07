@@ -153,15 +153,15 @@ Answer the **Quiz 2.5**. Click your section to open the Google Form. Deadline: D
  Logical Equivalence of Statements 
 - [Watch video](https://tubedu.org/videos/watch/541efbb6-6fce-4ddd-9574-a443415c3fc8), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/logical-equivalence-of-statements.mp4)
 
-### Week 7 Lesson 1
+### Week 6 Lesson 2
  Inductive and Deductive Reasoning 
 - [Watch video](https://tubedu.org/videos/watch/16479370-abeb-4617-b4eb-525fb4c610e0), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/inductive-and-deductive-reasoning.mp4)
 
-### Week 8 Lesson 1
+### Week 7 Lesson 1
  Writing Proofs 
 - [Watch video part 1](https://tubedu.org/videos/watch/cedb2a81-e3ca-4148-9135-0adc792553f7), [Watch video part 2](https://tubedu.org/videos/watch/03eb38b7-6c9c-427e-bf82-9ab799720c95), [Download video part 1](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/writing-proofs-part1.mp4), [Download video part 2](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/writing-proofs-part2.mp4)
 
-### Week 8 Lesson 2
+### Week 8 Lesson 1
  Direct and Indirect Proofs 
 - [Watch video](https://tubedu.org/videos/watch/5e5f54dc-e6fa-4074-8f48-6ef7b03d260c), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/direct-and-indirect-proofs.mp4)
 
