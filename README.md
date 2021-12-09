@@ -169,6 +169,12 @@ Answer the **Quiz 2.6**. Click your section to open the Google Form. Deadline: J
  Writing Proofs 
 - [Watch video part 1](https://tubedu.org/videos/watch/cedb2a81-e3ca-4148-9135-0adc792553f7), [Watch video part 2](https://tubedu.org/videos/watch/03eb38b7-6c9c-427e-bf82-9ab799720c95), [Download video part 1](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/writing-proofs-part1.mp4), [Download video part 2](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/writing-proofs-part2.mp4)
 
+Answer the **Quiz 2.7**. Click your section to open the Google Form. Deadline: Jan. 15, 2022
+- [8-Cooperation](https://forms.gle/c41pN5ykwmre8SLB7)
+- [8-Diligence](https://forms.gle/RjPndiEjFfG8UFZD9)
+- [8-Honesty](https://forms.gle/7Tz1P2Ef9PxxUwwBA)
+- [8-Obedience](https://forms.gle/RhAAz6twz17rYSH17)
+- [8-Vigor](https://forms.gle/JicJPYnAdwNBsqAM6)
 ### Week 8 Lesson 1
  Direct and Indirect Proofs 
 - [Watch video](https://tubedu.org/videos/watch/5e5f54dc-e6fa-4074-8f48-6ef7b03d260c), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/direct-and-indirect-proofs.mp4)
