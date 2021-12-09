@@ -175,10 +175,17 @@ Answer the **Quiz 2.7**. Click your section to open the Google Form. Deadline: J
 - [8-Honesty](https://forms.gle/7Tz1P2Ef9PxxUwwBA)
 - [8-Obedience](https://forms.gle/RhAAz6twz17rYSH17)
 - [8-Vigor](https://forms.gle/JicJPYnAdwNBsqAM6)
+
 ### Week 8 Lesson 1
  Direct and Indirect Proofs 
 - [Watch video](https://tubedu.org/videos/watch/5e5f54dc-e6fa-4074-8f48-6ef7b03d260c), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/direct-and-indirect-proofs.mp4)
 
+Answer the **Quiz 2.8**. Click your section to open the Google Form. Deadline: Jan. 2, 2022
+- [8-Cooperation](https://forms.gle/SGBfJVxR6Ez7hseKA)
+- [8-Diligence](https://forms.gle/omVJ9ErjgL4wMfL57)
+- [8-Honesty](https://forms.gle/17VcGZEfiSc2cVkT7)
+- [8-Obedience](https://forms.gle/S7nH1K5bTuNe8ekB8)
+- [8-Vigor](https://forms.gle/gvKTSZUMFbC6EMTT8)
 
 
 ## First Grading Period
