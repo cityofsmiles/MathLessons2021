@@ -143,12 +143,12 @@ Answer the **Remedial Activity 2.4**. Click your section to open the Google Form
  Inverse, Converse, and Contrapositive Statements 
 - [Watch video](https://tubedu.org/videos/watch/6e4bc2e5-e8a3-489f-ab09-46077df51a92), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/inverse-converse-and-contrapositive-statements.mp4)
 
-Answer the **Quiz 2.5**. Click your section to open the Google Form. Deadline: Dec. 18, 2021
-- [8-Cooperation](https://forms.gle/vJiNDKT9Z9h3u61C9)
-- [8-Diligence](https://forms.gle/Vv2NxwsXcGXcaqvE8)
-- [8-Honesty](https://forms.gle/TVicaFT4C295Drf39)
-- [8-Obedience](https://forms.gle/nA2WBmthnPwMqZdb9)
-- [8-Vigor](https://forms.gle/M5j33sargPigBWrr7)
+Answer the **Remedial Activity 2.5**. Click your section to open the Google Form. 
+- [8-Cooperation](https://forms.gle/J85bZAssxKJe8Fxp7)
+- [8-Diligence](https://forms.gle/HeMyWZdCxkJWFCKCA)
+- [8-Honesty](https://forms.gle/sBHJk8pdbg9Wuzy88)
+- [8-Obedience](https://forms.gle/DYT3xsEoWk7JVRdL6)
+- [8-Vigor](https://forms.gle/ZEkcAEeFaKYKa2KT6)
 
 ### Week 6 Lesson 1
  Logical Equivalence of Statements 
