@@ -184,6 +184,14 @@ Answer the **Quiz 2.7**. Click your section to open the Google Form. Deadline: J
 - [8-Obedience](https://forms.gle/RhAAz6twz17rYSH17)
 - [8-Vigor](https://forms.gle/JicJPYnAdwNBsqAM6)
 
+<!-- Answer the **Remedial Activity 2.7**. Click your section to open the Google Form.
+- [8-Cooperation](https://forms.gle/MjVK7bXfB1hHJ4CZ9)
+- [8-Diligence](https://forms.gle/k6MVPZLAVsV7oxrZ7)
+- [8-Honesty](https://forms.gle/GrHPgUFiVb5MgWA89)
+- [8-Obedience](https://forms.gle/RwQPW1QE5nTN1zEH7)
+- [8-Vigor](https://forms.gle/5rZnvXt3WYy3FW1b8)
+-->
+
 ### Week 8 Lesson 1
  Direct and Indirect Proofs 
 - [Watch video](https://tubedu.org/videos/watch/5e5f54dc-e6fa-4074-8f48-6ef7b03d260c), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/direct-and-indirect-proofs.mp4)
@@ -195,6 +203,22 @@ Answer the **Quiz 2.8**. Click your section to open the Google Form. Deadline: J
 - [8-Obedience](https://forms.gle/S7nH1K5bTuNe8ekB8)
 - [8-Vigor](https://forms.gle/gvKTSZUMFbC6EMTT8)
 
+<!-- Answer the **Remedial Activity 2.8**. Click your section to open the Google Form.
+- [8-Cooperation](https://forms.gle/JGy2vCjFZgQtqNew8)
+- [8-Diligence](https://forms.gle/WoYuDtJkEREQeKmR9)
+- [8-Honesty](https://forms.gle/zdjyY4vjTvqAi6RSA)
+- [8-Obedience](https://forms.gle/6DE6n5WDHZHEiyBD9)
+- [8-Vigor](https://forms.gle/kSBr3itTYU12X9P6A)
+-->
+
+<!-- ### Week 9
+Answer the **Summative Test**. Click your section to open the Google Form.
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+-->
 
 ## First Grading Period
 
