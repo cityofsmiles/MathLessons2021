@@ -165,6 +165,13 @@ Answer the **Quiz 2.6**. Click your section to open the Google Form. Deadline: J
 - [8-Obedience](https://forms.gle/mBUxS937soPQAxJ89)
 - [8-Vigor](https://forms.gle/J2fukAq1hbTdWEdR7)
 
+<!-- Answer the **Remedial Activity 2.6**. Click your section to open the Google Form.
+- [8-Cooperation](https://forms.gle/AnoPsgFQp1KPLHEv6)
+- [8-Diligence](https://forms.gle/G962vctnCP746nUAA)
+- [8-Honesty](https://forms.gle/UouAryg6V3GDCzwS6)
+- [8-Obedience](https://forms.gle/nJjazTuqWYTnw9Fb8)
+- [8-Vigor](https://forms.gle/tMLW5RSMTr1dykpZ7)
+-->
 
 ### Week 7 Lesson 1
  Writing Proofs 
