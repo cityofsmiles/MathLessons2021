@@ -178,20 +178,21 @@ Answer the **Remedial Activity 2.6**. Click your section to open the Google Form
  Writing Proofs 
 - [Watch video part 1](https://tubedu.org/videos/watch/cedb2a81-e3ca-4148-9135-0adc792553f7), [Watch video part 2](https://tubedu.org/videos/watch/03eb38b7-6c9c-427e-bf82-9ab799720c95), [Download video part 1](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/writing-proofs-part1.mp4), [Download video part 2](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/writing-proofs-part2.mp4)
 
-Answer the **Quiz 2.7**. Click your section to open the Google Form. Deadline: Jan. 15, 2022
+<!-- Answer the **Quiz 2.7**. Click your section to open the Google Form. Deadline: Jan. 15, 2022
 - [8-Cooperation](https://forms.gle/c41pN5ykwmre8SLB7)
 - [8-Diligence](https://forms.gle/RjPndiEjFfG8UFZD9)
 - [8-Honesty](https://forms.gle/7Tz1P2Ef9PxxUwwBA)
 - [8-Obedience](https://forms.gle/RhAAz6twz17rYSH17)
 - [8-Vigor](https://forms.gle/JicJPYnAdwNBsqAM6)
+-->
 
-<!-- Answer the **Remedial Activity 2.7**. Click your section to open the Google Form.
+Answer the **Remedial Activity 2.7**. Click your section to open the Google Form.
 - [8-Cooperation](https://forms.gle/MjVK7bXfB1hHJ4CZ9)
 - [8-Diligence](https://forms.gle/k6MVPZLAVsV7oxrZ7)
 - [8-Honesty](https://forms.gle/GrHPgUFiVb5MgWA89)
 - [8-Obedience](https://forms.gle/RwQPW1QE5nTN1zEH7)
 - [8-Vigor](https://forms.gle/5rZnvXt3WYy3FW1b8)
--->
+
 
 ### Week 8 Lesson 1
  Direct and Indirect Proofs 
