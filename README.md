@@ -213,14 +213,14 @@ Answer the **Quiz 2.8**. Click your section to open the Google Form. Deadline: J
 - [8-Vigor](https://forms.gle/kSBr3itTYU12X9P6A)
 -->
 
-<!-- ### Week 9
+ ### Week 9
 Answer the **Summative Test**. Click your section to open the Google Form.
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
--->
+- [8-Cooperation](https://forms.gle/2r1mRTSnbUPyRGU19)
+- [8-Diligence](https://forms.gle/1Gs9sLYzue4J96dt5)
+- [8-Honesty](https://forms.gle/kXxiQofNw7bPEsdM7)
+- [8-Obedience](https://forms.gle/jV2yzeT6u6WXWeDH7)
+- [8-Vigor](https://forms.gle/jq5N8jBwheD5sUSD9)
+
 
 ## First Grading Period
 
