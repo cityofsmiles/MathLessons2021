@@ -198,20 +198,20 @@ Answer the **Remedial Activity 2.7**. Click your section to open the Google Form
  Direct and Indirect Proofs 
 - [Watch video](https://tubedu.org/videos/watch/5e5f54dc-e6fa-4074-8f48-6ef7b03d260c), [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/direct-and-indirect-proofs.mp4)
 
-Answer the **Quiz 2.8**. Click your section to open the Google Form. 
+<!-- Answer the **Quiz 2.8**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/SGBfJVxR6Ez7hseKA)
 - [8-Diligence](https://forms.gle/omVJ9ErjgL4wMfL57)
 - [8-Honesty](https://forms.gle/17VcGZEfiSc2cVkT7)
 - [8-Obedience](https://forms.gle/S7nH1K5bTuNe8ekB8)
 - [8-Vigor](https://forms.gle/gvKTSZUMFbC6EMTT8)
-
-<!-- Answer the **Remedial Activity 2.8**. Click your section to open the Google Form.
+-->
+Answer the **Remedial Activity 2.8**. Click your section to open the Google Form.
 - [8-Cooperation](https://forms.gle/JGy2vCjFZgQtqNew8)
 - [8-Diligence](https://forms.gle/WoYuDtJkEREQeKmR9)
 - [8-Honesty](https://forms.gle/zdjyY4vjTvqAi6RSA)
 - [8-Obedience](https://forms.gle/6DE6n5WDHZHEiyBD9)
 - [8-Vigor](https://forms.gle/kSBr3itTYU12X9P6A)
--->
+
 
  ### Week 9
 Answer the **Summative Test**. Click your section to open the Google Form. Deadline: Feb. 7, 2022
