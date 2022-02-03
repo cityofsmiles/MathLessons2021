@@ -166,7 +166,7 @@ Answer the **Remedial Activity 2.5**. Click your section to open the Google Form
 - [8-Vigor](https://forms.gle/J2fukAq1hbTdWEdR7)
 --> 
 
-Answer the **Remedial Activity 2.6**. Click your section to open the Google Form.
+Answer the **Remedial Activity 2.6**. Click your section to open the Google Form. Deadline: Feb. 7, 2022
 - [8-Cooperation](https://forms.gle/AnoPsgFQp1KPLHEv6)
 - [8-Diligence](https://forms.gle/G962vctnCP746nUAA)
 - [8-Honesty](https://forms.gle/UouAryg6V3GDCzwS6)
