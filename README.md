@@ -222,6 +222,280 @@ Answer the **Summative Test**. Click your section to open the Google Form. Deadl
 - [8-Vigor](https://forms.gle/jq5N8jBwheD5sUSD9)
 
 
+## Third Grading Period
+
+### Week 1 Lesson 1
+Introduction to Mathematical System
+- [Watch Video](https://tubedu.org/w/14sB15vhsNFq4d7XtsnVk2), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/mathematical-system.mp4)
+
+<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+### Week 1 Lesson 2
+Two-Column Proof
+- [Watch Video](https://tubedu.org/w/uTza6Dta9en3rMRA4VMBaU), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/two-column-proof.mp4)
+
+<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+### Week 2 Lesson 1
+Defined and Undefined Terms
+- [Watch Video](https://tubedu.org/w/5u6m4yR1GdXSZrZXMu3N2p), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/defined-and-undefined-terms.mp4)
+
+<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+
+### Week 2 Lesson 2
+Postulates and Theorems
+- [Watch Video](https://tubedu.org/w/s67SXeiKQgsaTfCBdZZH7g), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/postulates-and-theorems.mp4)
+
+<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+
+### Week 3 Lesson 1
+Triangle Congruence
+- [Watch Video](https://tubedu.org/w/gdLPGvkeTbr3bNvrwey8VZ), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/triangle-congruence.mp4)
+
+<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+
+### Week 4 Lesson 1
+SSS Triangle Congruence Postulate
+- [Watch Video](https://tubedu.org/w/23y9sj8QZHsF35REgeCxL6), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/sss-triangle-congruence-postulate.mp4)
+
+<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+
+### Week 4 Lesson 2
+SAS Triangle Congruence Postulate
+- [Watch Video](https://tubedu.org/w/cMzzApzoeoLKeu4S2i5Gm4), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/sas-triangle-congruence-postulate.mp4)
+
+<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+
+### Week 4 Lesson 3
+ASA Triangle Congruence Postulate
+- [Watch Video](https://tubedu.org/w/9xFk1PHaiePvPuy8uMT7PV), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/asa-triangle-congruence-postulate.mp4)
+
+<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+
+### Week 5 Lesson 1
+Solving Corresponding Parts of Congruent Triangles
+- [Watch Video](https://tubedu.org/w/bQpQxWYtrJptRkQJDAyuYc), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/solving-corresponding-parts-of-congruent-triangles.mp4)
+
+<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+
+### Week 6 Lesson 1
+Proving the Congruence of Triangles
+- [Watch Video](https://tubedu.org/w/cXmWg7DKPA79wjdVEMVXng), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/proving-the-congruence-of-triangles.mp4)
+
+<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+
+### Week 7 Lesson 1
+Proving Statements on Triangle Congruence
+- [Watch Video](https://tubedu.org/w/aoRCnoQWgRZdJ4B9WbCMzx), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/proving-statements-on-triangle-congruence.mp4)
+
+<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+
+### Week 8 Lesson 1
+Applying Triangle Congruence in Constructing Perpendicular Lines
+- [Watch Video](https://tubedu.org/w/992yZsvNSpzK32ZqPjFKLC), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/applying-triangle-congruence-in-constructing-perpendicular-bisector.mp4)
+
+<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+
+### Week 8 Lesson 2
+Applying Triangle Congruence in Constructing Angle Bisectors
+- [Watch Video](https://tubedu.org/w/nm91upGjUEXM4qiktG9Qoy), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/applying-triangle-congruence-in-constructing-angle-bisector.mp4)
+
+<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
+- [8-Cooperation]()
+- [8-Diligence]()
+- [8-Honesty]()
+- [8-Obedience]()
+- [8-Vigor]()
+--> 
+
+
+
 ## First Grading Period
 
 ### Review Lessons (Video lessons by Ma'am Emelyn Cañares)
