@@ -42,6 +42,8 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 - [Quarter 2 Module 4](https://github.com/cityofsmiles/MathResources/raw/main/others/HG-G8-Q2-Module-4-RTP.pdf)
 - [Quarter 2 Module 5](https://github.com/cityofsmiles/MathResources/raw/main/others/HG-G8-Q2-Module-5-RTP.pdf)
 - [Quarter 2 Module 6](https://github.com/cityofsmiles/MathResources/raw/main/others/HG-G8-Q2-Module-6-RTP.pdf)
+- [Quarter 3 Module 8](https://github.com/cityofsmiles/MathResources/raw/main/others/Q3_Grade-8-Module-8_Together.It-Will-Be-Easier.pdf)
+- [Quarter 3 Module 9](https://github.com/cityofsmiles/MathResources/raw/main/others/Q3_Grade-8-Module-9_Getting-Ready-for-for-the-21st-Century.pdf)
 
 6. For 8-Obedience students, upload your RHGP outputs in the following links.
 - [Submission for Quarter 1 Module 1](https://forms.gle/SD1SJBkXzQbk6HEWA)
