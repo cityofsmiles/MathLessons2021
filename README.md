@@ -54,21 +54,19 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 - [Submission for Quarter 2 Module 6](https://forms.gle/g1dyNrkiny2Uz36JA)
 - [Submission for Quarter 3 Module 8](https://forms.gle/c3VyzUscgMiam4y67)
 
-
-
 ## Third Grading Period
 
 ### Week 1 Lesson 1
 Introduction to Mathematical System
 - [Watch Video](https://tubedu.org/w/14sB15vhsNFq4d7XtsnVk2), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/mathematical-system.mp4)
 
-<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
---> 
+Answer the **Quiz 3.1**. Click your section to open the Google Form. Deadline: Feb. 19, 2022
+- [8-Cooperation](https://forms.gle/uC8wC9BymuSjK46a6)
+- [8-Diligence](https://forms.gle/PGgWAhNUPPhHFni16)
+- [8-Honesty](https://forms.gle/wfcjhpqTV1HujRky9)
+- [8-Obedience](https://forms.gle/cD75RHsn5p5RVJ599)
+- [8-Vigor](https://forms.gle/JmBrDqvJF5HD7XVz8)
+
 
 <!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
 - [8-Cooperation]()
