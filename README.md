@@ -60,6 +60,10 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 Introduction to Mathematical System
 - [Watch Video](https://tubedu.org/w/14sB15vhsNFq4d7XtsnVk2), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/mathematical-system.mp4)
 
+### Week 1 Lesson 2
+Two-Column Proof
+- [Watch Video](https://tubedu.org/w/uTza6Dta9en3rMRA4VMBaU), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/two-column-proof.mp4)
+
 Answer the **Quiz 3.1**. Click your section to open the Google Form. Deadline: Feb. 19, 2022
 - [8-Cooperation](https://forms.gle/uC8wC9BymuSjK46a6)
 - [8-Diligence](https://forms.gle/PGgWAhNUPPhHFni16)
@@ -67,26 +71,6 @@ Answer the **Quiz 3.1**. Click your section to open the Google Form. Deadline: F
 - [8-Obedience](https://forms.gle/cD75RHsn5p5RVJ599)
 - [8-Vigor](https://forms.gle/JmBrDqvJF5HD7XVz8)
 
-
-<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
---> 
-
-### Week 1 Lesson 2
-Two-Column Proof
-- [Watch Video](https://tubedu.org/w/uTza6Dta9en3rMRA4VMBaU), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/two-column-proof.mp4)
-
-<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
---> 
 
 <!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
 - [8-Cooperation]()
