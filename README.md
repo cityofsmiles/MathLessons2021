@@ -72,46 +72,28 @@ Answer the **Quiz 3.1**. Click your section to open the Google Form. Deadline: F
 - [8-Vigor](https://forms.gle/JmBrDqvJF5HD7XVz8)
 
 
-<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+<!-- Answer the **Remedial Activity 3.1**. Click your section to open the Google Form. 
+- [8-Cooperation](https://forms.gle/UNGqPPiaq5U7PuRL8)
+- [8-Diligence](https://forms.gle/DAGFo2YE8E3A6i2T7)
+- [8-Honesty](https://forms.gle/64SGvqApaENcf4pQ6)
+- [8-Obedience](https://forms.gle/LhBDXrdJRXHHxjUq8)
+- [8-Vigor](https://forms.gle/hrZBDTdGsQwYssTa7)
 --> 
 
 ### Week 2 Lesson 1
 Defined and Undefined Terms
 - [Watch Video](https://tubedu.org/w/5u6m4yR1GdXSZrZXMu3N2p), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/defined-and-undefined-terms.mp4)
 
-<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
---> 
-
-<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
---> 
-
-
 ### Week 2 Lesson 2
 Postulates and Theorems
 - [Watch Video](https://tubedu.org/w/s67SXeiKQgsaTfCBdZZH7g), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/postulates-and-theorems.mp4)
 
-<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
---> 
+Answer the **Quiz 3.2**. Click your section to open the Google Form. Deadline: , 2022
+- [8-Cooperation](https://forms.gle/R9hms2h6mRPEdTFK7)
+- [8-Diligence](https://forms.gle/pPQdBdM6wGi6LSRb7)
+- [8-Honesty](https://forms.gle/tWktM5vKazktGomR6)
+- [8-Obedience](https://forms.gle/sPJ5kScGX5uhEVw66)
+- [8-Vigor](https://forms.gle/DzQzXaMCiDEPskvE8)
 
 <!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
 - [8-Cooperation]()
