@@ -65,21 +65,21 @@ Introduction to Mathematical System
 Two-Column Proof
 - [Watch Video](https://tubedu.org/w/uTza6Dta9en3rMRA4VMBaU), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/two-column-proof.mp4)
 
-Answer the **Quiz 3.1**. Click your section to open the Google Form. Deadline: Feb. 19, 2022
+<!-- Answer the **Quiz 3.1**. Click your section to open the Google Form. Deadline: Feb. 19, 2022
 - [8-Cooperation](https://forms.gle/uC8wC9BymuSjK46a6)
 - [8-Diligence](https://forms.gle/PGgWAhNUPPhHFni16)
 - [8-Honesty](https://forms.gle/wfcjhpqTV1HujRky9)
 - [8-Obedience](https://forms.gle/cD75RHsn5p5RVJ599)
 - [8-Vigor](https://forms.gle/JmBrDqvJF5HD7XVz8)
+--> 
 
-
-<!-- Answer the **Remedial Activity 3.1**. Click your section to open the Google Form. 
+Answer the **Remedial Activity 3.1**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/UNGqPPiaq5U7PuRL8)
 - [8-Diligence](https://forms.gle/DAGFo2YE8E3A6i2T7)
 - [8-Honesty](https://forms.gle/64SGvqApaENcf4pQ6)
 - [8-Obedience](https://forms.gle/LhBDXrdJRXHHxjUq8)
 - [8-Vigor](https://forms.gle/hrZBDTdGsQwYssTa7)
---> 
+
 
 ### Week 2 Lesson 1
 Defined and Undefined Terms
