@@ -116,12 +116,12 @@ Answer the **Quiz 3.3**. Click your section to open the Google Form. Deadline: M
 - [8-Obedience](https://forms.gle/YjcCHj4Qoarvzoyu7)
 - [8-Vigor](https://forms.gle/51Ux4opQ8ScANdkW8)
 
-<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+<!-- Answer the **Remedial Activity 3.3**. Click your section to open the Google Form. 
+- [8-Cooperation](https://forms.gle/pUCsN5hpzDCxRh1J6)
+- [8-Diligence](https://forms.gle/3DTA9AsVTJcYLVuZ9)
+- [8-Honesty](https://forms.gle/hjUoU6RNxJrcNRjCA)
+- [8-Obedience](https://forms.gle/FAoLHmbNMYcPfaCa8)
+- [8-Vigor](https://forms.gle/jxj6Ez6Zmd4xPYE78)
 --> 
 
 
@@ -129,62 +129,28 @@ Answer the **Quiz 3.3**. Click your section to open the Google Form. Deadline: M
 SSS Triangle Congruence Postulate
 - [Watch Video](https://tubedu.org/w/23y9sj8QZHsF35REgeCxL6), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/sss-triangle-congruence-postulate.mp4)
 
-<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
---> 
-
-<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
---> 
-
-
 ### Week 4 Lesson 2
 SAS Triangle Congruence Postulate
 - [Watch Video](https://tubedu.org/w/cMzzApzoeoLKeu4S2i5Gm4), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/sas-triangle-congruence-postulate.mp4)
-
-<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
---> 
-
-<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
---> 
-
 
 ### Week 4 Lesson 3
 ASA Triangle Congruence Postulate
 - [Watch Video](https://tubedu.org/w/9xFk1PHaiePvPuy8uMT7PV), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/asa-triangle-congruence-postulate.mp4)
 
-<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
---> 
+Answer the **Quiz 3.4**. Click your section to open the Google Form. Deadline: March 12, 2022
+- [8-Cooperation](https://forms.gle/vZ1c9jya6LKrYTLK9)
+- [8-Diligence](https://forms.gle/nZPXUyCref9a2VNs9)
+- [8-Honesty](https://forms.gle/ntZGBRVUcbBMeisq9)
+- [8-Obedience](https://forms.gle/LhTqRrGjh3trQFhn7)
+- [8-Vigor](https://forms.gle/2qRBJnQh2MjK93oy5)
 
-<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+
+<!-- Answer the **Remedial Activity 3.4**. Click your section to open the Google Form. 
+- [8-Cooperation](https://forms.gle/tNLGMkqwHeEsMyhQ8)
+- [8-Diligence](https://forms.gle/KMbQB2KJMuRQUq478)
+- [8-Honesty](https://forms.gle/Y7VACXcNJv5523Fk7)
+- [8-Obedience](https://forms.gle/crLR9ry2nfVWZpzz7)
+- [8-Vigor](https://forms.gle/35WBEoWp1aHPL25v7)
 --> 
 
 
@@ -192,20 +158,20 @@ ASA Triangle Congruence Postulate
 Solving Corresponding Parts of Congruent Triangles
 - [Watch Video](https://tubedu.org/w/bQpQxWYtrJptRkQJDAyuYc), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/solving-corresponding-parts-of-congruent-triangles.mp4)
 
-<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+<!-- Answer the **Quiz 3.5**. Click your section to open the Google Form. Deadline: March 19, 2022
+- [8-Cooperation](https://forms.gle/nkRiW1sybTYWvmeC9)
+- [8-Diligence](https://forms.gle/jUBg8RMC48JRnCdXA)
+- [8-Honesty](https://forms.gle/WtkGCeb3oHvtBMKCA)
+- [8-Obedience](https://forms.gle/JtpdsjtY3gW3UEdH6)
+- [8-Vigor](https://forms.gle/Tkn2AM19dsn7YRdD7)
 --> 
 
-<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+<!-- Answer the **Remedial Activity 3.5**. Click your section to open the Google Form. 
+- [8-Cooperation](https://forms.gle/zqXq93CoMGuu5pmN6)
+- [8-Diligence](https://forms.gle/DLD2kUF5mUHGFY2k7)
+- [8-Honesty](https://forms.gle/Emawsn8zFEwTCcEJ6)
+- [8-Obedience](https://forms.gle/5fHWTho56YPK9oF46)
+- [8-Vigor](https://forms.gle/FwUGBkb2MLQnYenRA)
 --> 
 
 
