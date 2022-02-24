@@ -158,13 +158,12 @@ Answer the **Quiz 3.4**. Click your section to open the Google Form. Deadline: M
 Solving Corresponding Parts of Congruent Triangles
 - [Watch Video](https://tubedu.org/w/bQpQxWYtrJptRkQJDAyuYc), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/solving-corresponding-parts-of-congruent-triangles.mp4)
 
-<!-- Answer the **Quiz 3.5**. Click your section to open the Google Form. Deadline: March 19, 2022
+Answer the **Quiz 3.5**. Click your section to open the Google Form. Deadline: March 19, 2022
 - [8-Cooperation](https://forms.gle/nkRiW1sybTYWvmeC9)
 - [8-Diligence](https://forms.gle/jUBg8RMC48JRnCdXA)
 - [8-Honesty](https://forms.gle/WtkGCeb3oHvtBMKCA)
 - [8-Obedience](https://forms.gle/JtpdsjtY3gW3UEdH6)
 - [8-Vigor](https://forms.gle/Tkn2AM19dsn7YRdD7)
---> 
 
 <!-- Answer the **Remedial Activity 3.5**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/zqXq93CoMGuu5pmN6)
@@ -179,20 +178,19 @@ Solving Corresponding Parts of Congruent Triangles
 Proving the Congruence of Triangles
 - [Watch Video](https://tubedu.org/w/cXmWg7DKPA79wjdVEMVXng), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/proving-the-congruence-of-triangles.mp4)
 
-<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
---> 
+Answer the **Quiz 3.6**. Click your section to open the Google Form. Deadline: March 26, 2022
+- [8-Cooperation](https://forms.gle/r52v8X7Fft4fJpuG6)
+- [8-Diligence](https://forms.gle/pkEdUedoLS1w3p6D6)
+- [8-Honesty](https://forms.gle/ynp8ifnDMcGfbEgq8)
+- [8-Obedience](https://forms.gle/aWhpjMjtNCU6Hxx17)
+- [8-Vigor](https://forms.gle/TNC4A7kJv8sG7n5KA)
 
-<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+<!-- Answer the **Remedial Activity 3.6**. Click your section to open the Google Form. 
+- [8-Cooperation](https://forms.gle/uh8vWkpUbbcCF6jz6)
+- [8-Diligence](https://forms.gle/TgWBhA2SRdLkz87r8)
+- [8-Honesty](https://forms.gle/bPwhuK8Xpg5GbttM9)
+- [8-Obedience](https://forms.gle/ieSa2Zx6oRRrxAcDA)
+- [8-Vigor](https://forms.gle/TgjXK122DhWm6wcV7)
 --> 
 
 
@@ -200,20 +198,19 @@ Proving the Congruence of Triangles
 Proving Statements on Triangle Congruence
 - [Watch Video](https://tubedu.org/w/aoRCnoQWgRZdJ4B9WbCMzx), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/proving-statements-on-triangle-congruence.mp4)
 
-<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
---> 
+Answer the **Quiz 3.7**. Click your section to open the Google Form. Deadline: , 2022
+- [8-Cooperation](https://forms.gle/BG9bucb6FtcqUaov6)
+- [8-Diligence](https://forms.gle/TvhmbG96572eahwcA)
+- [8-Honesty](https://forms.gle/gVhGHaM485Q3Ls8n6)
+- [8-Obedience](https://forms.gle/wgSdHdmsrpuqxAbT7)
+- [8-Vigor](https://forms.gle/SNfKce8fcE7PHjbw8)
 
-<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+<!-- Answer the **Remedial Activity 3.7**. Click your section to open the Google Form. 
+- [8-Cooperation](https://forms.gle/KfXx6nhN6wLcZeF18)
+- [8-Diligence](https://forms.gle/UEM8LcqRmG6cxnoX7)
+- [8-Honesty](https://forms.gle/hHsxNCtUoZ4DF2aU8)
+- [8-Obedience](https://forms.gle/Ek8kxR7CoP8UqtNc6)
+- [8-Vigor](https://forms.gle/12Uk17ppcjehD7v7A)
 --> 
 
 
