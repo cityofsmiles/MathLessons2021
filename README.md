@@ -92,20 +92,21 @@ Defined and Undefined Terms
 Postulates and Theorems
 - [Watch Video](https://tubedu.org/w/s67SXeiKQgsaTfCBdZZH7g), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/postulates-and-theorems.mp4)
 
-Answer the **Quiz 3.2**. Click your section to open the Google Form. Deadline: Feb. 26, 2022
+<!-- Answer the **Quiz 3.2**. Click your section to open the Google Form. Deadline: Feb. 26, 2022
 - [8-Cooperation](https://forms.gle/R9hms2h6mRPEdTFK7)
 - [8-Diligence](https://forms.gle/pPQdBdM6wGi6LSRb7)
 - [8-Honesty](https://forms.gle/tWktM5vKazktGomR6)
 - [8-Obedience](https://forms.gle/sPJ5kScGX5uhEVw66)
 - [8-Vigor](https://forms.gle/DzQzXaMCiDEPskvE8)
+--> 
 
-<!-- Answer the **Remedial Activity 3.2**. Click your section to open the Google Form. 
+Answer the **Remedial Activity 3.2**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/9eVijGWx8hxYApJF9)
 - [8-Diligence](https://forms.gle/Cbka1s1WU4WzFdRR7)
 - [8-Honesty](https://forms.gle/EPByaBqsTPWnrJd1A)
 - [8-Obedience](https://forms.gle/Jxu9sd6tdUCBtwHA7)
 - [8-Vigor](https://forms.gle/Km2LGU9Xse8DRZAL8)
---> 
+
 
 
 ### Week 3 Lesson 1
