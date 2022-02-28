@@ -15,25 +15,28 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 - [Flashcard 10](https://forms.gle/GPaN5hzkfx4nB7So6)
 
 2. Click your section to view your scores in the flashcards.
-- [8-Cooperation](https://drive.google.com/file/d/1YqdVwetdLaa6o5HGEkiss7iFEbcCN8ql/view?usp=sharing)
-- [8-Diligence](https://drive.google.com/file/d/1_eweh5rPmweN0lQHGvhuTVDzZHHHNv5F/view?usp=sharing)
-- [8-Honesty](https://drive.google.com/file/d/1ffN2BkeBvG-l4zc9zhpjc7Zicko_1uoE/view?usp=sharing)
-- [8-Obedience](https://drive.google.com/file/d/1cWWqZau88_LHqQGR0EJbRotPa39Qru9c/view?usp=sharing)
-- [8-Vigor](https://drive.google.com/file/d/19uBSBAHCT_O1KgxURAXiv_v1DRKH0LIh/view?usp=sharing)
+- [8-Cooperation](https://drive.google.com/file/d/1yiSi6Ez6uz_H0ZdMS-1TA2r9ZmmI-Lq-/view?usp=sharing)
+- [8-Diligence](https://drive.google.com/file/d/1aaAeCGssZUCfuO4NHuhtJq_TmWEAK58w/view?usp=sharing)
+- [8-Honesty](https://drive.google.com/file/d/1VNRoFu3hgs-5NdoU8mlTTH9adVYMeb7J/view?usp=sharing)
+- [8-Obedience](https://drive.google.com/file/d/1XPDUrJxTJhP9mNPlXta1VwxGWX_9r8i-/view?usp=sharing)
+- [8-Vigor](https://drive.google.com/file/d/1SIwdDVGO8nUP1JvVwpsUM19dwvDSzeyx/view?usp=sharing)
+
 
 3. Click your section to view your scores in the Practice Exercises.
-- [8-Cooperation](https://drive.google.com/file/d/13OrAxgFcu3ZJ-5yBsKWWfb9LgIPzM5Tw/view?usp=sharing)
-- [8-Diligence](https://drive.google.com/file/d/1sZc2VxUzdYzxbmnSFf89yoKMWYkkPgzd/view?usp=sharing)
-- [8-Honesty](https://drive.google.com/file/d/1y0pJ7u8eeVwYh6n7lt9xCLCoG1jKSrNO/view?usp=sharing)
-- [8-Obedience](https://drive.google.com/file/d/1Ed3kGg2IOxZgqSYxG-vTJW89bcrWWSfO/view?usp=sharing)
-- [8-Vigor](https://drive.google.com/file/d/1_BwEprqzV0wDkfGoAB1bLlAi9ldBNFhu/view?usp=sharing)
+- [8-Cooperation](https://drive.google.com/file/d/1iyo3eLxf6Qbwf5u7ly9befB3oD6U1eqM/view?usp=sharing)
+- [8-Diligence](https://drive.google.com/file/d/1IzOGX1PWO708xg-6vUQ7Yd4FvGWIcvP6/view?usp=sharing)
+- [8-Honesty](https://drive.google.com/file/d/1KydrZGqp_TLQwIZnEgvqhMq_aM77YNi-/view?usp=sharing)
+- [8-Obedience](https://drive.google.com/file/d/16-K-xOPbuGoCV1kj_KueXUxcMdJqF-Pu/view?usp=sharing)
+- [8-Vigor](https://drive.google.com/file/d/1uRfpXtivfwQJqrvtiHLcUHKbcuRYrhPj/view?usp=sharing)
+
 
 4. Click your section to view your quiz results.
-- [8-Cooperation](https://drive.google.com/file/d/1Mv6p8d1j5y7yJSYIPxC7uX4KCYoWsA-C/view?usp=sharing)
-- [8-Diligence](https://drive.google.com/file/d/1UA_k4nkzMIlbPFnAtSymMYjHP7FFvV5T/view?usp=sharing)
-- [8-Honesty](https://drive.google.com/file/d/10IrhRA20LZRAHfeoko9wdm0uocRxe87Z/view?usp=sharing)
-- [8-Obedience](https://drive.google.com/file/d/1BMoAXz6j_IJPtKGAGzXo4_BTBFGu_wVx/view?usp=sharing)
-- [8-Vigor](https://drive.google.com/file/d/1_coN0mLT4eFlv95yqY1xCQoAx7FGvGru/view?usp=sharing)
+- [8-Cooperation](https://drive.google.com/file/d/1y3DgBmUtpU586qSslGH7LpV3S5qBdIRF/view?usp=sharing)
+- [8-Diligence](https://drive.google.com/file/d/1Il0P8gfVHd6iLCDGdHkvgdT3JqpyNrwI/view?usp=sharing)
+- [8-Honesty](https://drive.google.com/file/d/105XFUxL6AObqbm0v2n7KLQNH-TXxlMfg/view?usp=sharing)
+- [8-Obedience](https://drive.google.com/file/d/10IxHdlNsGMDuc6ObUo0cro1Yl6vvEWw3/view?usp=sharing)
+- [8-Vigor](https://drive.google.com/file/d/1-isrn4RyZlhp6WW3BqCXSs6VrTg4h_ye/view?usp=sharing)
+
 
 5. For 8-Obedience students, download your modules in RHGP.
 - [Quarter 1 Module 1](https://github.com/cityofsmiles/MathResources/raw/main/others/HG-G8-Q1-Module-1-RTP.pdf)
