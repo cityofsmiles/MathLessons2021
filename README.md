@@ -113,21 +113,20 @@ Answer the **Remedial Activity 3.2**. Click your section to open the Google Form
 Triangle Congruence
 - [Watch Video](https://tubedu.org/w/gdLPGvkeTbr3bNvrwey8VZ), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/triangle-congruence.mp4)
 
-Answer the **Quiz 3.3**. Click your section to open the Google Form. Deadline: March 5, 2022
+<!-- Answer the **Quiz 3.3**. Click your section to open the Google Form. Deadline: March 5, 2022
 - [8-Cooperation](https://forms.gle/7DPvnodVXLvNyMz26)
 - [8-Diligence](https://forms.gle/CfprQt2rvjqC5JzT8)
 - [8-Honesty](https://forms.gle/fzHVz1oDTkDN24iB6)
 - [8-Obedience](https://forms.gle/YjcCHj4Qoarvzoyu7)
 - [8-Vigor](https://forms.gle/51Ux4opQ8ScANdkW8)
+--> 
 
-<!-- Answer the **Remedial Activity 3.3**. Click your section to open the Google Form. 
+Answer the **Remedial Activity 3.3**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/pUCsN5hpzDCxRh1J6)
 - [8-Diligence](https://forms.gle/3DTA9AsVTJcYLVuZ9)
 - [8-Honesty](https://forms.gle/hjUoU6RNxJrcNRjCA)
 - [8-Obedience](https://forms.gle/FAoLHmbNMYcPfaCa8)
 - [8-Vigor](https://forms.gle/jxj6Ez6Zmd4xPYE78)
---> 
-
 
 ### Week 4 Lesson 1
 SSS Triangle Congruence Postulate
