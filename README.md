@@ -58,6 +58,8 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 - [Submission for Quarter 3 Module 8](https://forms.gle/c3VyzUscgMiam4y67)
 - [Submission for Quarter 3 Module 9](https://forms.gle/MDro9sLDeBcW8PUd8)
 
+7. For 8-Obedience students, view your missing requirements. [Click here](https://drive.google.com/file/d/1Hd2_XFZpGN0Xa0fOnvRC8wkn6vZ3z80X/view?usp=sharing).
+
 ## Third Grading Period
 
 ### Week 1 Lesson 1
