@@ -109,8 +109,6 @@ Answer the **Remedial Activity 3.2**. Click your section to open the Google Form
 - [8-Obedience](https://forms.gle/Jxu9sd6tdUCBtwHA7)
 - [8-Vigor](https://forms.gle/Km2LGU9Xse8DRZAL8)
 
-
-
 ### Week 3 Lesson 1
 Triangle Congruence
 - [Watch Video](https://tubedu.org/w/gdLPGvkeTbr3bNvrwey8VZ), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/triangle-congruence.mp4)
@@ -203,7 +201,7 @@ Answer the **Quiz 3.6**. Click your section to open the Google Form. Deadline: M
 Proving Statements on Triangle Congruence
 - [Watch Video](https://tubedu.org/w/aoRCnoQWgRZdJ4B9WbCMzx), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/proving-statements-on-triangle-congruence.mp4)
 
-Answer the **Quiz 3.7**. Click your section to open the Google Form. Deadline: , 2022
+Answer the **Quiz 3.7**. Click your section to open the Google Form. Deadline: April 2, 2022
 - [8-Cooperation](https://forms.gle/BG9bucb6FtcqUaov6)
 - [8-Diligence](https://forms.gle/TvhmbG96572eahwcA)
 - [8-Honesty](https://forms.gle/gVhGHaM485Q3Ls8n6)
@@ -223,42 +221,35 @@ Answer the **Quiz 3.7**. Click your section to open the Google Form. Deadline: ,
 Applying Triangle Congruence in Constructing Perpendicular Lines
 - [Watch Video](https://tubedu.org/w/992yZsvNSpzK32ZqPjFKLC), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/applying-triangle-congruence-in-constructing-perpendicular-bisector.mp4)
 
-<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
---> 
-
-<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
---> 
-
-
 ### Week 8 Lesson 2
 Applying Triangle Congruence in Constructing Angle Bisectors
 - [Watch Video](https://tubedu.org/w/nm91upGjUEXM4qiktG9Qoy), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/applying-triangle-congruence-in-constructing-angle-bisector.mp4)
 
-<!-- Answer the **Quiz 3.**. Click your section to open the Google Form. Deadline: , 2022
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+Answer the **Quiz 3.8**. Click your section to open the Google Form. Deadline: April 9, 2022
+- [8-Cooperation](https://forms.gle/ye8WSSKuVdn8FZ3g9)
+- [8-Diligence](https://forms.gle/QFSsmXEfe5vZUUyC6)
+- [8-Honesty](https://forms.gle/ZnRVqe3V5xowS8DK6)
+- [8-Obedience](https://forms.gle/YCFXu88Vu23jeMsKA)
+- [8-Vigor](https://forms.gle/YpLf8BDrbgAJiTW27)
+
+
+<!-- Answer the **Remedial Activity 3.8**. Click your section to open the Google Form. 
+- [8-Cooperation](https://forms.gle/rdh28mtjYdSdYpH7A)
+- [8-Diligence](https://forms.gle/sy3TEWptHs5LrFjn8)
+- [8-Honesty](https://forms.gle/KeAiYU6RTUrR6ozA7)
+- [8-Obedience](https://forms.gle/EcpW8JQBnUjEWSgb6)
+- [8-Vigor](https://forms.gle/ymrDRWPcMkEQDvB17)
 --> 
 
-<!-- Answer the **Remedial Activity 3.**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
---> 
+
+### Week 9
+Answer the **3rd Quarter Summative Test**. Click your section to open the Google Form. Deadline: April 16, 2022
+- [8-Cooperation](https://forms.gle/bGRABMHaDRqkWoqTA)
+- [8-Diligence](https://forms.gle/jfVn2hzEL6rwCHZj7)
+- [8-Honesty](https://forms.gle/HqoYS6S7KGYsNqh96)
+- [8-Obedience](https://forms.gle/fdtYTZDZ1juw8vXK8)
+- [8-Vigor](https://forms.gle/oCkhPg3pCLzz3Ywa6)
+
 
 ## Second Grading Period
 
