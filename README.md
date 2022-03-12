@@ -140,22 +140,20 @@ SAS Triangle Congruence Postulate
 ASA Triangle Congruence Postulate
 - [Watch Video](https://tubedu.org/w/9xFk1PHaiePvPuy8uMT7PV), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/asa-triangle-congruence-postulate.mp4)
 
-Answer the **Quiz 3.4**. Click your section to open the Google Form. Deadline: March 12, 2022
+<!-- Answer the **Quiz 3.4**. Click your section to open the Google Form. Deadline: March 12, 2022
 - [8-Cooperation](https://forms.gle/vZ1c9jya6LKrYTLK9)
 - [8-Diligence](https://forms.gle/nZPXUyCref9a2VNs9)
 - [8-Honesty](https://forms.gle/ntZGBRVUcbBMeisq9)
 - [8-Obedience](https://forms.gle/LhTqRrGjh3trQFhn7)
 - [8-Vigor](https://forms.gle/2qRBJnQh2MjK93oy5)
+--> 
 
-
-<!-- Answer the **Remedial Activity 3.4**. Click your section to open the Google Form. 
+Answer the **Remedial Activity 3.4**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/tNLGMkqwHeEsMyhQ8)
 - [8-Diligence](https://forms.gle/KMbQB2KJMuRQUq478)
 - [8-Honesty](https://forms.gle/Y7VACXcNJv5523Fk7)
 - [8-Obedience](https://forms.gle/crLR9ry2nfVWZpzz7)
 - [8-Vigor](https://forms.gle/35WBEoWp1aHPL25v7)
---> 
-
 
 ### Week 5 Lesson 1
 Solving Corresponding Parts of Congruent Triangles
