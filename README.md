@@ -159,20 +159,21 @@ Answer the **Remedial Activity 3.4**. Click your section to open the Google Form
 Solving Corresponding Parts of Congruent Triangles
 - [Watch Video](https://tubedu.org/w/bQpQxWYtrJptRkQJDAyuYc), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/solving-corresponding-parts-of-congruent-triangles.mp4)
 
-Answer the **Quiz 3.5**. Click your section to open the Google Form. Deadline: March 19, 2022
+<!-- Answer the **Quiz 3.5**. Click your section to open the Google Form. Deadline: March 19, 2022
 - [8-Cooperation](https://forms.gle/nkRiW1sybTYWvmeC9)
 - [8-Diligence](https://forms.gle/jUBg8RMC48JRnCdXA)
 - [8-Honesty](https://forms.gle/WtkGCeb3oHvtBMKCA)
 - [8-Obedience](https://forms.gle/JtpdsjtY3gW3UEdH6)
 - [8-Vigor](https://forms.gle/Tkn2AM19dsn7YRdD7)
+--> 
 
-<!-- Answer the **Remedial Activity 3.5**. Click your section to open the Google Form. 
+Answer the **Remedial Activity 3.5**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/zqXq93CoMGuu5pmN6)
 - [8-Diligence](https://forms.gle/DLD2kUF5mUHGFY2k7)
 - [8-Honesty](https://forms.gle/Emawsn8zFEwTCcEJ6)
 - [8-Obedience](https://forms.gle/5fHWTho56YPK9oF46)
 - [8-Vigor](https://forms.gle/FwUGBkb2MLQnYenRA)
---> 
+
 
 
 ### Week 6 Lesson 1
