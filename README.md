@@ -201,20 +201,21 @@ Answer the **Remedial Activity 3.6**. Click your section to open the Google Form
 Proving Statements on Triangle Congruence
 - [Watch Video](https://tubedu.org/w/aoRCnoQWgRZdJ4B9WbCMzx), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/proving-statements-on-triangle-congruence.mp4)
 
-Answer the **Quiz 3.7**. Click your section to open the Google Form. Deadline: April 2, 2022
+<!-- Answer the **Quiz 3.7**. Click your section to open the Google Form. Deadline: April 2, 2022
 - [8-Cooperation](https://forms.gle/BG9bucb6FtcqUaov6)
 - [8-Diligence](https://forms.gle/TvhmbG96572eahwcA)
 - [8-Honesty](https://forms.gle/gVhGHaM485Q3Ls8n6)
 - [8-Obedience](https://forms.gle/wgSdHdmsrpuqxAbT7)
 - [8-Vigor](https://forms.gle/SNfKce8fcE7PHjbw8)
+--> 
 
-<!-- Answer the **Remedial Activity 3.7**. Click your section to open the Google Form. 
+Answer the **Remedial Activity 3.7**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/KfXx6nhN6wLcZeF18)
 - [8-Diligence](https://forms.gle/UEM8LcqRmG6cxnoX7)
 - [8-Honesty](https://forms.gle/hHsxNCtUoZ4DF2aU8)
 - [8-Obedience](https://forms.gle/Ek8kxR7CoP8UqtNc6)
 - [8-Vigor](https://forms.gle/12Uk17ppcjehD7v7A)
---> 
+
 
 
 ### Week 8 Lesson 1
