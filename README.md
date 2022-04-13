@@ -286,52 +286,54 @@ Answer the **Remedial Activity 4.1**. Click your section to open the Google Form
  Applying Theorems on Triangle Inequality 
 - [Watch Video](https://tubedu.org/w/vTPPVFTMmYz1uodQ94K5n5) 
 
-<!-- Answer the **Quiz 4.2**. Click your section to open the Google Form. Deadline:
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+Answer the **Quiz 4.2**. Click your section to open the Google Form. Deadline: April 30, 2022
+- [8-Cooperation](https://forms.gle/NKwTm5E2tP7JXAas9)
+- [8-Diligence](https://forms.gle/nFJ7z7fQYDK5EuJ16)
+- [8-Honesty](https://forms.gle/9NBwt21huMkqj5CD6)
+- [8-Obedience](https://forms.gle/5CmaJ3ewRjoGSVCo8)
+- [8-Vigor](https://forms.gle/YPVWnfJcAar55GWo7)
 
+<!-- 
 Answer the **Remedial Activity 4.2**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+- [8-Cooperation](https://forms.gle/9QfzzjfrmJdZFozc7)
+- [8-Diligence](https://forms.gle/GpfD1WTbnQgAK8A7A)
+- [8-Honesty](https://forms.gle/p5WdzcQJxdDtgued8)
+- [8-Obedience](https://forms.gle/KhsUfAJPxmpZFBjK7)
+- [8-Vigor](https://forms.gle/jwSMdxSMVgtNBdoE7)
 -->
 
 ### Week 3 Lesson 1
  Proving Inequalities in a Triangle 
 - [Watch Video](https://tubedu.org/w/fYaqv4aU62AGgJyoVZtmrX) 
 
-<!-- Answer the **Quiz 4.**. Click your section to open the Google Form. Deadline:
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+Answer the **Quiz 4.3**. Click your section to open the Google Form. Deadline: May 7, 2022
+- [8-Cooperation](https://forms.gle/HDqpG9EotBuHLQJ8A)
+- [8-Diligence](https://forms.gle/nF7BkeM1sPC5HSbh9)
+- [8-Honesty](https://forms.gle/5ATvsZ8xw5a8cZTn9)
+- [8-Obedience](https://forms.gle/7B3PofRbzG7z7ah96)
+- [8-Vigor](https://forms.gle/TNVfy5XctQKitE659)
 
-Answer the **Remedial Activity 4.**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+<!-- 
+Answer the **Remedial Activity 4.3**. Click your section to open the Google Form. 
+- [8-Cooperation](https://forms.gle/SUYsvbJwSPmUphkQA)
+- [8-Diligence](https://forms.gle/X8Bwx8YTLbohxEKa9)
+- [8-Honesty](https://forms.gle/ACxTPkdmzd2nTdKQ7)
+- [8-Obedience](https://forms.gle/qsnDKPcK8pZPzkRD7)
+- [8-Vigor](https://forms.gle/tRKCr88xzRbTj6JSA)
 -->
 
 ### Week 4 Lesson 1
  Proving Properties of Parallel Lines Cut by a Transversal 
 - [Watch Video](https://tubedu.org/w/8PegY48sLdakzx1yixZXM1) 
 
-<!-- Answer the **Quiz 4.**. Click your section to open the Google Form. Deadline:
+<!-- Answer the **Quiz 4.4**. Click your section to open the Google Form. Deadline:
 - [8-Cooperation]()
 - [8-Diligence]()
 - [8-Honesty]()
 - [8-Obedience]()
 - [8-Vigor]()
 
-Answer the **Remedial Activity 4.**. Click your section to open the Google Form. 
+Answer the **Remedial Activity 4.4**. Click your section to open the Google Form. 
 - [8-Cooperation]()
 - [8-Diligence]()
 - [8-Honesty]()
@@ -343,14 +345,14 @@ Answer the **Remedial Activity 4.**. Click your section to open the Google Form.
  Parallelism and Perpendicularity 
 - [Watch Video](https://tubedu.org/w/bGsbHjaoyZ1n9Bo1KD5yix) 
 
-<!-- Answer the **Quiz 4.**. Click your section to open the Google Form. Deadline:
+<!-- Answer the **Quiz 4.5**. Click your section to open the Google Form. Deadline:
 - [8-Cooperation]()
 - [8-Diligence]()
 - [8-Honesty]()
 - [8-Obedience]()
 - [8-Vigor]()
 
-Answer the **Remedial Activity 4.**. Click your section to open the Google Form. 
+Answer the **Remedial Activity 4.5**. Click your section to open the Google Form. 
 - [8-Cooperation]()
 - [8-Diligence]()
 - [8-Honesty]()
@@ -366,14 +368,14 @@ Answer the **Remedial Activity 4.**. Click your section to open the Google Form.
  Counting the Outcomes of Experiments 
 - [Watch Video](https://tubedu.org/w/aNBRaDhh3HGHhfKP8ZmTzT) 
 
-<!-- Answer the **Quiz 4.**. Click your section to open the Google Form. Deadline:
+<!-- Answer the **Quiz 4.6**. Click your section to open the Google Form. Deadline:
 - [8-Cooperation]()
 - [8-Diligence]()
 - [8-Honesty]()
 - [8-Obedience]()
 - [8-Vigor]()
 
-Answer the **Remedial Activity 4.**. Click your section to open the Google Form. 
+Answer the **Remedial Activity 4.6**. Click your section to open the Google Form. 
 - [8-Cooperation]()
 - [8-Diligence]()
 - [8-Honesty]()
@@ -385,14 +387,14 @@ Answer the **Remedial Activity 4.**. Click your section to open the Google Form.
  Probability of an Event 
 - [Watch Video](https://tubedu.org/w/m2vgZub8psZ58xd1sEyeuC) 
 
-<!-- Answer the **Quiz 4.**. Click your section to open the Google Form. Deadline:
+<!-- Answer the **Quiz 4.7**. Click your section to open the Google Form. Deadline:
 - [8-Cooperation]()
 - [8-Diligence]()
 - [8-Honesty]()
 - [8-Obedience]()
 - [8-Vigor]()
 
-Answer the **Remedial Activity 4.**. Click your section to open the Google Form. 
+Answer the **Remedial Activity 4.7**. Click your section to open the Google Form. 
 - [8-Cooperation]()
 - [8-Diligence]()
 - [8-Honesty]()
@@ -408,14 +410,14 @@ Answer the **Remedial Activity 4.**. Click your section to open the Google Form.
  Solving Problems Involving Probabilities of Simple Events 
 - [Watch Video](https://tubedu.org/w/aFXLx3s3yctUx4bvrVqUTL) 
 
-<!-- Answer the **Quiz 4.**. Click your section to open the Google Form. Deadline:
+<!-- Answer the **Quiz 4.8**. Click your section to open the Google Form. Deadline:
 - [8-Cooperation]()
 - [8-Diligence]()
 - [8-Honesty]()
 - [8-Obedience]()
 - [8-Vigor]()
 
-Answer the **Remedial Activity 4.**. Click your section to open the Google Form. 
+Answer the **Remedial Activity 4.8**. Click your section to open the Google Form. 
 - [8-Cooperation]()
 - [8-Diligence]()
 - [8-Honesty]()
