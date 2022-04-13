@@ -226,21 +226,21 @@ Applying Triangle Congruence in Constructing Perpendicular Lines
 Applying Triangle Congruence in Constructing Angle Bisectors
 - [Watch Video](https://tubedu.org/w/nm91upGjUEXM4qiktG9Qoy), [Download Video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/applying-triangle-congruence-in-constructing-angle-bisector.mp4)
 
+<!-- 
 Answer the **Quiz 3.8**. Click your section to open the Google Form. Deadline: April 9, 2022
 - [8-Cooperation](https://forms.gle/ye8WSSKuVdn8FZ3g9)
 - [8-Diligence](https://forms.gle/QFSsmXEfe5vZUUyC6)
 - [8-Honesty](https://forms.gle/ZnRVqe3V5xowS8DK6)
 - [8-Obedience](https://forms.gle/YCFXu88Vu23jeMsKA)
 - [8-Vigor](https://forms.gle/YpLf8BDrbgAJiTW27)
+--> 
 
-
-<!-- Answer the **Remedial Activity 3.8**. Click your section to open the Google Form. 
+Answer the **Remedial Activity 3.8**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/rdh28mtjYdSdYpH7A)
 - [8-Diligence](https://forms.gle/sy3TEWptHs5LrFjn8)
 - [8-Honesty](https://forms.gle/KeAiYU6RTUrR6ozA7)
 - [8-Obedience](https://forms.gle/EcpW8JQBnUjEWSgb6)
 - [8-Vigor](https://forms.gle/ymrDRWPcMkEQDvB17)
---> 
 
 
 ### Week 9
@@ -266,33 +266,34 @@ Answer the **3rd Quarter Summative Test**. Click your section to open the Google
  Hinge Theorem 
 - [Watch Video 1](https://tubedu.org/w/cgV4xR3WaXnk1tqijnHHrQ), [Watch Video 2](https://tubedu.org/w/b1WE1TWE1VxxxQ1CQ7c1nG) 
 
-<!-- Answer the **Quiz 4.**. Click your section to open the Google Form. Deadline:
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+Answer the **Quiz 4.1**. Click your section to open the Google Form. Deadline: April 23, 2022
+- [8-Cooperation](https://forms.gle/ax7VhgKM95sfmjiT7)
+- [8-Diligence](https://forms.gle/pit245jyPzDNazga8)
+- [8-Honesty](https://forms.gle/PmqjGGCEHLftevKe8)
+- [8-Obedience](https://forms.gle/GsB4HUfr31u7FQtm6)
+- [8-Vigor](https://forms.gle/nkkWWhbYKfKb7eC4A)
 
-Answer the **Remedial Activity 4.**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+<!-- 
+Answer the **Remedial Activity 4.1**. Click your section to open the Google Form. 
+- [8-Cooperation](https://forms.gle/fpCcPeGr261mC6ok6)
+- [8-Diligence](https://forms.gle/AiV286NM4CDmv9ScA)
+- [8-Honesty](https://forms.gle/VyBhiwoD75FRW8hf7)
+- [8-Obedience](https://forms.gle/whtdkUmD8jnzoBxp9)
+- [8-Vigor](https://forms.gle/TzvDK2ZWCNu4YRTY6)
 -->
 
 ### Week 2 Lesson 1
  Applying Theorems on Triangle Inequality 
 - [Watch Video](https://tubedu.org/w/vTPPVFTMmYz1uodQ94K5n5) 
 
-<!-- Answer the **Quiz 4.**. Click your section to open the Google Form. Deadline:
+<!-- Answer the **Quiz 4.2**. Click your section to open the Google Form. Deadline:
 - [8-Cooperation]()
 - [8-Diligence]()
 - [8-Honesty]()
 - [8-Obedience]()
 - [8-Vigor]()
 
-Answer the **Remedial Activity 4.**. Click your section to open the Google Form. 
+Answer the **Remedial Activity 4.2**. Click your section to open the Google Form. 
 - [8-Cooperation]()
 - [8-Diligence]()
 - [8-Honesty]()
