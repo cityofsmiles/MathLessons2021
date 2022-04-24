@@ -177,18 +177,18 @@ Answer the **Remedial Activity 4.5**. Click your section to open the Google Form
 - [Watch Video](https://tubedu.org/w/aNBRaDhh3HGHhfKP8ZmTzT) 
 
 <!-- Answer the **Quiz 4.6**. Click your section to open the Google Form. Deadline:
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+- [8-Cooperation](https://forms.gle/Kb5P6gQgnUNLHAw39)
+- [8-Diligence](https://forms.gle/tinF8GdRgGAGiC9dA)
+- [8-Honesty](https://forms.gle/FiqFwH2NgXpJaXLY6)
+- [8-Obedience](https://forms.gle/HrDWaUdbf6BerdNn9)
+- [8-Vigor](https://forms.gle/fA7JZTFybckXepRKA)
 
 Answer the **Remedial Activity 4.6**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+- [8-Cooperation](https://forms.gle/AGT5T8JriokeyGUH9)
+- [8-Diligence](https://forms.gle/ZgrCxji9CTUNU5Qb9)
+- [8-Honesty](https://forms.gle/q9ZpwvQbV53m6WuM7)
+- [8-Obedience](https://forms.gle/kFuNHxfSF4KMJp4Y6)
+- [8-Vigor](https://forms.gle/3C1s1h86fSNwe1Bg8)
 -->
 
 ### Week 7 Lesson 1
