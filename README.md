@@ -134,13 +134,14 @@ Answer the **Remedial Activity 4.3**. Click your section to open the Google Form
  Proving Properties of Parallel Lines Cut by a Transversal 
 - [Watch Video](https://tubedu.org/w/8PegY48sLdakzx1yixZXM1) 
 
-<!-- Answer the **Quiz 4.4**. Click your section to open the Google Form. Deadline:
+Answer the **Quiz 4.4**. Click your section to open the Google Form. Deadline: May 14, 2022
 - [8-Cooperation](https://forms.gle/Y1zgQLUhthK6rC5F8)
 - [8-Diligence](https://forms.gle/b6sJ6ifUkziTZsNW7)
 - [8-Honesty](https://forms.gle/C9w2Y7wSrbdpJAcH8)
 - [8-Obedience](https://forms.gle/wBWjTvj9tXYi3ywh8)
 - [8-Vigor](https://forms.gle/FvYdamJLP4e14iZx5)
 
+<!-- 
 Answer the **Remedial Activity 4.4**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/jbq7XZjarF9o8mWAA)
 - [8-Diligence](https://forms.gle/hJkX9ECcLwkwnPku8)
@@ -153,13 +154,14 @@ Answer the **Remedial Activity 4.4**. Click your section to open the Google Form
  Parallelism and Perpendicularity 
 - [Watch Video](https://tubedu.org/w/bGsbHjaoyZ1n9Bo1KD5yix) 
 
-<!-- Answer the **Quiz 4.5**. Click your section to open the Google Form. Deadline:
+Answer the **Quiz 4.5**. Click your section to open the Google Form. Deadline: May 21, 2022
 - [8-Cooperation](https://forms.gle/JkrJCnzJ1t5SXf9U6)
 - [8-Diligence](https://forms.gle/zF1ZakXahta253kB9)
 - [8-Honesty](https://forms.gle/naYU9Mm82XCmi5ZY9)
 - [8-Obedience](https://forms.gle/up2V4JNq85j5ENpf6)
 - [8-Vigor](https://forms.gle/u5Wy9x2seCognBug9)
 
+<!-- 
 Answer the **Remedial Activity 4.5**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/2h1VxPx4MJLKDLc26)
 - [8-Diligence](https://forms.gle/qMB3fPKbgMzwL3h49)
@@ -176,13 +178,14 @@ Answer the **Remedial Activity 4.5**. Click your section to open the Google Form
  Counting the Outcomes of Experiments 
 - [Watch Video](https://tubedu.org/w/aNBRaDhh3HGHhfKP8ZmTzT) 
 
-<!-- Answer the **Quiz 4.6**. Click your section to open the Google Form. Deadline:
+Answer the **Quiz 4.6**. Click your section to open the Google Form. Deadline: May 28, 2022
 - [8-Cooperation](https://forms.gle/Kb5P6gQgnUNLHAw39)
 - [8-Diligence](https://forms.gle/tinF8GdRgGAGiC9dA)
 - [8-Honesty](https://forms.gle/FiqFwH2NgXpJaXLY6)
 - [8-Obedience](https://forms.gle/HrDWaUdbf6BerdNn9)
 - [8-Vigor](https://forms.gle/fA7JZTFybckXepRKA)
 
+<!-- 
 Answer the **Remedial Activity 4.6**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/AGT5T8JriokeyGUH9)
 - [8-Diligence](https://forms.gle/ZgrCxji9CTUNU5Qb9)
