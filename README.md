@@ -151,7 +151,10 @@ Answer the **Remedial Activity 4.4**. Click your section to open the Google Form
 -->
 
 ### Week 5 Lesson 1
- Parallelism and Perpendicularity 
+Angles Formed by Parallel Lines Cut by a Transversal
+- [Watch Video](https://www.youtube.com/watch?v=YMx7PAWjnjI)
+
+<!--  Parallelism and Perpendicularity 
 - [Watch Video](https://tubedu.org/w/bGsbHjaoyZ1n9Bo1KD5yix) 
 
 Answer the **Quiz 4.5**. Click your section to open the Google Form. Deadline: May 21, 2022
@@ -161,7 +164,7 @@ Answer the **Quiz 4.5**. Click your section to open the Google Form. Deadline: M
 - [8-Obedience](https://forms.gle/up2V4JNq85j5ENpf6)
 - [8-Vigor](https://forms.gle/u5Wy9x2seCognBug9)
 
-<!-- 
+
 Answer the **Remedial Activity 4.5**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/2h1VxPx4MJLKDLc26)
 - [8-Diligence](https://forms.gle/qMB3fPKbgMzwL3h49)
