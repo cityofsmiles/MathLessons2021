@@ -154,6 +154,22 @@ Answer the **Remedial Activity 4.4**. Click your section to open the Google Form
 Angles Formed by Parallel Lines Cut by a Transversal
 - [Watch Video](https://www.youtube.com/watch?v=YMx7PAWjnjI)
 
+
+Answer the **Quiz 4.5**. Click your section to open the Google Form. Deadline: May 21, 2022
+- [8-Cooperation](https://forms.gle/GyZT4Xe9eVWhmjKo7)
+- [8-Diligence](https://forms.gle/rMDtxXFrVFmZSLi29)
+- [8-Honesty](https://forms.gle/FfNjeiXBvfwGmoBL9)
+- [8-Obedience](https://forms.gle/kDkVh8GmEdymp7fD6)
+- [8-Vigor](https://forms.gle/tyJYZVx3H4Lqccqd7)
+
+<!--  Answer the **Remedial Activity 4.5**. Click your section to open the Google Form. 
+- [8-Cooperation](https://forms.gle/sqzZa8xULpkfzcXeA)
+- [8-Diligence](https://forms.gle/cZteAQekEn4r9duK9)
+- [8-Honesty](https://forms.gle/wrhhxNkAG96L6yPb6)
+- [8-Obedience](https://forms.gle/8WK5zVq35QzZvxcn7)
+- [8-Vigor](https://forms.gle/rkwTxAFtwFaGsLzz8)
+-->
+
 <!--  Parallelism and Perpendicularity 
 - [Watch Video](https://tubedu.org/w/bGsbHjaoyZ1n9Bo1KD5yix) 
 
