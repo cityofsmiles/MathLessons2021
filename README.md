@@ -15,27 +15,27 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 - [Flashcard 10](https://forms.gle/GPaN5hzkfx4nB7So6)
 
 2. Click your section to view your scores in the flashcards.
-- [8-Cooperation](https://drive.google.com/file/d/1yiSi6Ez6uz_H0ZdMS-1TA2r9ZmmI-Lq-/view?usp=sharing)
-- [8-Diligence](https://drive.google.com/file/d/1aaAeCGssZUCfuO4NHuhtJq_TmWEAK58w/view?usp=sharing)
-- [8-Honesty](https://drive.google.com/file/d/1VNRoFu3hgs-5NdoU8mlTTH9adVYMeb7J/view?usp=sharing)
-- [8-Obedience](https://drive.google.com/file/d/1XPDUrJxTJhP9mNPlXta1VwxGWX_9r8i-/view?usp=sharing)
-- [8-Vigor](https://drive.google.com/file/d/1SIwdDVGO8nUP1JvVwpsUM19dwvDSzeyx/view?usp=sharing)
+- [8-Cooperation](https://drive.google.com/file/d/15Av4aPRsNza3MNCad7s3DlaFdrxTdgH8/view?usp=sharing)
+- [8-Diligence](https://drive.google.com/file/d/1sJUPvoS7kJsPiRrIJxOFZAF1U6THh9kE/view?usp=sharing)
+- [8-Honesty](https://drive.google.com/file/d/1ybTv8Pa7NjAHkGzdIJ--a2BeEPQVo3qt/view?usp=sharing)
+- [8-Obedience](https://drive.google.com/file/d/1DaMH7aK3b9wDAAjzvbwjjcfSjZWKRWg4/view?usp=sharing)
+- [8-Vigor](https://drive.google.com/file/d/1mpKPOtwYdP8r11kqCgtKEp6V_9-2-DHK/view?usp=sharing)
 
 
 3. Click your section to view your scores in the Practice Exercises.
-- [8-Cooperation](https://drive.google.com/file/d/1iyo3eLxf6Qbwf5u7ly9befB3oD6U1eqM/view?usp=sharing)
-- [8-Diligence](https://drive.google.com/file/d/1IzOGX1PWO708xg-6vUQ7Yd4FvGWIcvP6/view?usp=sharing)
-- [8-Honesty](https://drive.google.com/file/d/1KydrZGqp_TLQwIZnEgvqhMq_aM77YNi-/view?usp=sharing)
-- [8-Obedience](https://drive.google.com/file/d/16-K-xOPbuGoCV1kj_KueXUxcMdJqF-Pu/view?usp=sharing)
-- [8-Vigor](https://drive.google.com/file/d/1uRfpXtivfwQJqrvtiHLcUHKbcuRYrhPj/view?usp=sharing)
+- [8-Cooperation](https://drive.google.com/file/d/1wOp6I17akdnPbYlcBqzjcwubz4zif_vC/view?usp=sharing)
+- [8-Diligence](https://drive.google.com/file/d/16WZsHM419sozJSJzsFKvdiy3jAb3o2Ro/view?usp=sharing)
+- [8-Honesty](https://drive.google.com/file/d/1DpdRGBSC4SS34LIUQKdO6v8D-Z0FpMGR/view?usp=sharing)
+- [8-Obedience](https://drive.google.com/file/d/1-gkd4cC8V_DvA8OQoDrrnTRKY0fIN_3W/view?usp=sharing)
+- [8-Vigor](https://drive.google.com/file/d/1VzX-8PRlEqJVDjJc1U_7HcxY_tvPsik5/view?usp=sharing)
 
 
 4. Click your section to view your quiz results.
-- [8-Cooperation](https://drive.google.com/file/d/1y3DgBmUtpU586qSslGH7LpV3S5qBdIRF/view?usp=sharing)
-- [8-Diligence](https://drive.google.com/file/d/1Il0P8gfVHd6iLCDGdHkvgdT3JqpyNrwI/view?usp=sharing)
-- [8-Honesty](https://drive.google.com/file/d/105XFUxL6AObqbm0v2n7KLQNH-TXxlMfg/view?usp=sharing)
-- [8-Obedience](https://drive.google.com/file/d/10IxHdlNsGMDuc6ObUo0cro1Yl6vvEWw3/view?usp=sharing)
-- [8-Vigor](https://drive.google.com/file/d/1-isrn4RyZlhp6WW3BqCXSs6VrTg4h_ye/view?usp=sharing)
+- [8-Cooperation](https://drive.google.com/file/d/1Dnk1vG7DnjxZtjPwiPwbU8Ev31eky5Em/view?usp=sharing)
+- [8-Diligence](https://drive.google.com/file/d/1Ye2jlVMhewJ0fHKolTbkyVlR2d6LP-5j/view?usp=sharing)
+- [8-Honesty](https://drive.google.com/file/d/1M7tn50UM_sJx3WRQh6ghbr_O7mwiIk9t/view?usp=sharing)
+- [8-Obedience](https://drive.google.com/file/d/1ob25QVtdg1wdwTZ92AoLS9XlINZ6rbdw/view?usp=sharing)
+- [8-Vigor](https://drive.google.com/file/d/1_kXRq13PnOvNSW5E-P-XPzlWpY3NJ84p/view?usp=sharing)
 
 
 5. For 8-Obedience students, download your modules in RHGP.
@@ -60,6 +60,31 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 
 7. For 8-Obedience students, view your missing requirements. [Click here](https://drive.google.com/file/d/1Hd2_XFZpGN0Xa0fOnvRC8wkn6vZ3z80X/view?usp=sharing).
 
+8. Here are the outputs for the Third Grading Period.
+a. Click your section to view your scores in the flashcards.
+- [8-Cooperation](https://drive.google.com/file/d/1yiSi6Ez6uz_H0ZdMS-1TA2r9ZmmI-Lq-/view?usp=sharing)
+- [8-Diligence](https://drive.google.com/file/d/1aaAeCGssZUCfuO4NHuhtJq_TmWEAK58w/view?usp=sharing)
+- [8-Honesty](https://drive.google.com/file/d/1VNRoFu3hgs-5NdoU8mlTTH9adVYMeb7J/view?usp=sharing)
+- [8-Obedience](https://drive.google.com/file/d/1XPDUrJxTJhP9mNPlXta1VwxGWX_9r8i-/view?usp=sharing)
+- [8-Vigor](https://drive.google.com/file/d/1SIwdDVGO8nUP1JvVwpsUM19dwvDSzeyx/view?usp=sharing)
+
+
+b. Click your section to view your scores in the Practice Exercises.
+- [8-Cooperation](https://drive.google.com/file/d/1iyo3eLxf6Qbwf5u7ly9befB3oD6U1eqM/view?usp=sharing)
+- [8-Diligence](https://drive.google.com/file/d/1IzOGX1PWO708xg-6vUQ7Yd4FvGWIcvP6/view?usp=sharing)
+- [8-Honesty](https://drive.google.com/file/d/1KydrZGqp_TLQwIZnEgvqhMq_aM77YNi-/view?usp=sharing)
+- [8-Obedience](https://drive.google.com/file/d/16-K-xOPbuGoCV1kj_KueXUxcMdJqF-Pu/view?usp=sharing)
+- [8-Vigor](https://drive.google.com/file/d/1uRfpXtivfwQJqrvtiHLcUHKbcuRYrhPj/view?usp=sharing)
+
+
+c. Click your section to view your quiz results.
+- [8-Cooperation](https://drive.google.com/file/d/1y3DgBmUtpU586qSslGH7LpV3S5qBdIRF/view?usp=sharing)
+- [8-Diligence](https://drive.google.com/file/d/1Il0P8gfVHd6iLCDGdHkvgdT3JqpyNrwI/view?usp=sharing)
+- [8-Honesty](https://drive.google.com/file/d/105XFUxL6AObqbm0v2n7KLQNH-TXxlMfg/view?usp=sharing)
+- [8-Obedience](https://drive.google.com/file/d/10IxHdlNsGMDuc6ObUo0cro1Yl6vvEWw3/view?usp=sharing)
+- [8-Vigor](https://drive.google.com/file/d/1-isrn4RyZlhp6WW3BqCXSs6VrTg4h_ye/view?usp=sharing)
+
+
 ## Fourth Grading Period
 
 ### Week 1 Lesson 1
@@ -70,67 +95,67 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
  Triangle Inequality Theorem 
 - [Watch Video](https://tubedu.org/w/ro1o29SXXnVYQVGnoUPak1) 
 
-### Week 1 Lesson 3
+### Week 2 Lesson 1
  Hinge Theorem 
 - [Watch Video 1](https://tubedu.org/w/cgV4xR3WaXnk1tqijnHHrQ), [Watch Video 2](https://tubedu.org/w/b1WE1TWE1VxxxQ1CQ7c1nG) 
 
-Answer the **Quiz 4.1**. Click your section to open the Google Form. Deadline: April 23, 2022
+<!-- Answer the **Quiz 4.1**. Click your section to open the Google Form. Deadline: April 23, 2022
 - [8-Cooperation](https://forms.gle/ax7VhgKM95sfmjiT7)
 - [8-Diligence](https://forms.gle/pit245jyPzDNazga8)
 - [8-Honesty](https://forms.gle/PmqjGGCEHLftevKe8)
 - [8-Obedience](https://forms.gle/GsB4HUfr31u7FQtm6)
 - [8-Vigor](https://forms.gle/nkkWWhbYKfKb7eC4A)
+-->
 
-<!-- 
 Answer the **Remedial Activity 4.1**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/fpCcPeGr261mC6ok6)
 - [8-Diligence](https://forms.gle/AiV286NM4CDmv9ScA)
 - [8-Honesty](https://forms.gle/VyBhiwoD75FRW8hf7)
 - [8-Obedience](https://forms.gle/whtdkUmD8jnzoBxp9)
 - [8-Vigor](https://forms.gle/TzvDK2ZWCNu4YRTY6)
--->
 
-### Week 2 Lesson 1
+### Week 3 Lesson 1
  Applying Theorems on Triangle Inequality 
 - [Watch Video](https://tubedu.org/w/vTPPVFTMmYz1uodQ94K5n5) 
 
-Answer the **Quiz 4.2**. Click your section to open the Google Form. Deadline: April 30, 2022
+<!-- Answer the **Quiz 4.2**. Click your section to open the Google Form. Deadline: April 30, 2022
 - [8-Cooperation](https://forms.gle/NKwTm5E2tP7JXAas9)
 - [8-Diligence](https://forms.gle/nFJ7z7fQYDK5EuJ16)
 - [8-Honesty](https://forms.gle/9NBwt21huMkqj5CD6)
 - [8-Obedience](https://forms.gle/5CmaJ3ewRjoGSVCo8)
 - [8-Vigor](https://forms.gle/YPVWnfJcAar55GWo7)
+-->
 
-<!-- 
 Answer the **Remedial Activity 4.2**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/9QfzzjfrmJdZFozc7)
 - [8-Diligence](https://forms.gle/GpfD1WTbnQgAK8A7A)
 - [8-Honesty](https://forms.gle/p5WdzcQJxdDtgued8)
 - [8-Obedience](https://forms.gle/KhsUfAJPxmpZFBjK7)
 - [8-Vigor](https://forms.gle/jwSMdxSMVgtNBdoE7)
--->
 
-### Week 3 Lesson 1
+
+### Week 4 Lesson 1
  Proving Inequalities in a Triangle 
 - [Watch Video](https://tubedu.org/w/fYaqv4aU62AGgJyoVZtmrX) 
 
-Answer the **Quiz 4.3**. Click your section to open the Google Form. Deadline: May 7, 2022
+<!-- Answer the **Quiz 4.3**. Click your section to open the Google Form. Deadline: May 7, 2022
 - [8-Cooperation](https://forms.gle/HDqpG9EotBuHLQJ8A)
 - [8-Diligence](https://forms.gle/nF7BkeM1sPC5HSbh9)
 - [8-Honesty](https://forms.gle/5ATvsZ8xw5a8cZTn9)
 - [8-Obedience](https://forms.gle/7B3PofRbzG7z7ah96)
 - [8-Vigor](https://forms.gle/TNVfy5XctQKitE659)
+-->
 
-<!-- 
 Answer the **Remedial Activity 4.3**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/SUYsvbJwSPmUphkQA)
 - [8-Diligence](https://forms.gle/X8Bwx8YTLbohxEKa9)
 - [8-Honesty](https://forms.gle/ACxTPkdmzd2nTdKQ7)
 - [8-Obedience](https://forms.gle/qsnDKPcK8pZPzkRD7)
 - [8-Vigor](https://forms.gle/tRKCr88xzRbTj6JSA)
--->
 
-### Week 4 Lesson 1
+
+<!-- ### Week 4 Lesson 1
+
  Proving Properties of Parallel Lines Cut by a Transversal 
 - [Watch Video](https://tubedu.org/w/8PegY48sLdakzx1yixZXM1) 
 
@@ -140,15 +165,15 @@ Answer the **Quiz 4.4**. Click your section to open the Google Form. Deadline: M
 - [8-Honesty](https://forms.gle/C9w2Y7wSrbdpJAcH8)
 - [8-Obedience](https://forms.gle/wBWjTvj9tXYi3ywh8)
 - [8-Vigor](https://forms.gle/FvYdamJLP4e14iZx5)
+-->
 
-<!-- 
 Answer the **Remedial Activity 4.4**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/jbq7XZjarF9o8mWAA)
 - [8-Diligence](https://forms.gle/hJkX9ECcLwkwnPku8)
 - [8-Honesty](https://forms.gle/AwHU4og5NQu2QeVR9)
 - [8-Obedience](https://forms.gle/JXD2cm78Nx678Jkw6)
 - [8-Vigor](https://forms.gle/t3wqfgzikcYLgM5K9)
--->
+
 
 ### Week 5 Lesson 1
 Angles Formed by Parallel Lines Cut by a Transversal
