@@ -61,6 +61,7 @@ This is a repository for Grade 8 teaching resources created by the Math teachers
 7. For 8-Obedience students, view your missing requirements. [Click here](https://drive.google.com/file/d/1Hd2_XFZpGN0Xa0fOnvRC8wkn6vZ3z80X/view?usp=sharing).
 
 8. Here are the outputs for the Third Grading Period.
+
 a. Click your section to view your scores in the flashcards.
 - [8-Cooperation](https://drive.google.com/file/d/1yiSi6Ez6uz_H0ZdMS-1TA2r9ZmmI-Lq-/view?usp=sharing)
 - [8-Diligence](https://drive.google.com/file/d/1aaAeCGssZUCfuO4NHuhtJq_TmWEAK58w/view?usp=sharing)
@@ -242,19 +243,20 @@ Answer the **Remedial Activity 4.6**. Click your section to open the Google Form
  Probability of an Event 
 - [Watch Video](https://tubedu.org/w/m2vgZub8psZ58xd1sEyeuC) 
 
-<!-- Answer the **Quiz 4.7**. Click your section to open the Google Form. Deadline:
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+Answer the **Quiz 4.7**. Click your section to open the Google Form. Deadline: June 4, 2022
+- [8-Cooperation](https://forms.gle/ujWjehVGAiGU8UxS8)
+- [8-Diligence](https://forms.gle/6S481LwFNRvk2kMG8)
+- [8-Honesty](https://forms.gle/FbEFToJ1tAwfYEWx8)
+- [8-Obedience](https://forms.gle/8orQv2cakGtnHJ5d8)
+- [8-Vigor](https://forms.gle/i5jVkb1ShEGZtpXY9)
 
+<!-- 
 Answer the **Remedial Activity 4.7**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+- [8-Cooperation](https://forms.gle/quU6LuXjTUJCh38H8)
+- [8-Diligence](https://forms.gle/akcfP7G5TcJG97AG9)
+- [8-Honesty](https://forms.gle/dCKWSJZARXbVfGjq7)
+- [8-Obedience](https://forms.gle/UM2odnLiR3qnABz56)
+- [8-Vigor](https://forms.gle/YFTeMfdM4qhRXn3z6)
 -->
 
 ### Week 8 Lesson 1
@@ -265,19 +267,20 @@ Answer the **Remedial Activity 4.7**. Click your section to open the Google Form
  Solving Problems Involving Probabilities of Simple Events 
 - [Watch Video](https://tubedu.org/w/aFXLx3s3yctUx4bvrVqUTL) 
 
-<!-- Answer the **Quiz 4.8**. Click your section to open the Google Form. Deadline:
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+Answer the **Quiz 4.8**. Click your section to open the Google Form. Deadline: June 11, 2022
+- [8-Cooperation](https://forms.gle/GpBoQbAe1hYArbxv7)
+- [8-Diligence](https://forms.gle/F8h4T1T1urHnT5Er8)
+- [8-Honesty](https://forms.gle/1mn1dPfLz6D2E8f59)
+- [8-Obedience](https://forms.gle/rxwmCRJqv2buXMCV7)
+- [8-Vigor](https://forms.gle/YpaVCi9A912y1xgL7)
 
+<!-- 
 Answer the **Remedial Activity 4.8**. Click your section to open the Google Form. 
-- [8-Cooperation]()
-- [8-Diligence]()
-- [8-Honesty]()
-- [8-Obedience]()
-- [8-Vigor]()
+- [8-Cooperation](https://forms.gle/rM4kBZ3EJGFMZC1A7)
+- [8-Diligence](https://forms.gle/qHJHLLHpP42VXiuTA)
+- [8-Honesty](https://forms.gle/yNBFWwt8TBBnEjZc9)
+- [8-Obedience](https://forms.gle/tVqqoduzdu1CW4ct5)
+- [8-Vigor](https://forms.gle/QinunxexX7Y1nkHHA)
 -->
 
 
