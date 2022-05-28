@@ -289,6 +289,14 @@ Answer the **Remedial Activity 4.8**. Click your section to open the Google Form
 - [8-Vigor](https://forms.gle/QinunxexX7Y1nkHHA)
 -->
 
+### Week 9
+Answer the **4th Quarter Summative Test**. Click your section to open the Google Form. Deadline: June 18, 2022
+- [8-Cooperation](https://forms.gle/8AwR3kAwMMt1u1Nh9)
+- [8-Diligence](https://forms.gle/UCkgwVbx6jGThJBR6)
+- [8-Honesty](https://forms.gle/xxZ6kX9JAeNSRkGj9)
+- [8-Obedience](https://forms.gle/feVpEKsSuhCy9CSN9)
+- [8-Vigor](https://forms.gle/fAPz5jBJVtFYfYYB9)
+
 
 ## Third Grading Period
 
