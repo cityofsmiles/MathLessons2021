@@ -187,20 +187,21 @@ Angles Formed by Parallel Lines Cut by a Transversal
 - [Watch Video](https://www.youtube.com/watch?v=YMx7PAWjnjI)
 
 
-Answer the **Quiz 4.5**. Click your section to open the Google Form. Deadline: May 21, 2022
+<!--  Answer the **Quiz 4.5**. Click your section to open the Google Form. Deadline: May 21, 2022
 - [8-Cooperation](https://forms.gle/GyZT4Xe9eVWhmjKo7)
 - [8-Diligence](https://forms.gle/rMDtxXFrVFmZSLi29)
 - [8-Honesty](https://forms.gle/FfNjeiXBvfwGmoBL9)
 - [8-Obedience](https://forms.gle/kDkVh8GmEdymp7fD6)
 - [8-Vigor](https://forms.gle/tyJYZVx3H4Lqccqd7)
+-->
 
-<!--  Answer the **Remedial Activity 4.5**. Click your section to open the Google Form. 
+Answer the **Remedial Activity 4.5**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/sqzZa8xULpkfzcXeA)
 - [8-Diligence](https://forms.gle/cZteAQekEn4r9duK9)
 - [8-Honesty](https://forms.gle/wrhhxNkAG96L6yPb6)
 - [8-Obedience](https://forms.gle/8WK5zVq35QzZvxcn7)
 - [8-Vigor](https://forms.gle/rkwTxAFtwFaGsLzz8)
--->
+
 
 <!--  Parallelism and Perpendicularity 
 - [Watch Video](https://tubedu.org/w/bGsbHjaoyZ1n9Bo1KD5yix) 
@@ -229,21 +230,21 @@ Answer the **Remedial Activity 4.5**. Click your section to open the Google Form
  Counting the Outcomes of Experiments 
 - [Watch Video](https://tubedu.org/w/aNBRaDhh3HGHhfKP8ZmTzT) 
 
-Answer the **Quiz 4.6**. Click your section to open the Google Form. Deadline: May 28, 2022
+<!-- Answer the **Quiz 4.6**. Click your section to open the Google Form. Deadline: May 28, 2022
 - [8-Cooperation](https://forms.gle/Kb5P6gQgnUNLHAw39)
 - [8-Diligence](https://forms.gle/tinF8GdRgGAGiC9dA)
 - [8-Honesty](https://forms.gle/FiqFwH2NgXpJaXLY6)
 - [8-Obedience](https://forms.gle/HrDWaUdbf6BerdNn9)
 - [8-Vigor](https://forms.gle/fA7JZTFybckXepRKA)
+-->
 
-<!-- 
 Answer the **Remedial Activity 4.6**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/AGT5T8JriokeyGUH9)
 - [8-Diligence](https://forms.gle/ZgrCxji9CTUNU5Qb9)
 - [8-Honesty](https://forms.gle/q9ZpwvQbV53m6WuM7)
 - [8-Obedience](https://forms.gle/kFuNHxfSF4KMJp4Y6)
 - [8-Vigor](https://forms.gle/3C1s1h86fSNwe1Bg8)
--->
+
 
 ### Week 7 Lesson 1
  Probability of an Event 
