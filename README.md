@@ -250,21 +250,21 @@ Answer the **Remedial Activity 4.6**. Click your section to open the Google Form
  Probability of an Event 
 - [Watch Video](https://tubedu.org/w/m2vgZub8psZ58xd1sEyeuC) 
 
-Answer the **Quiz 4.7**. Click your section to open the Google Form. Deadline: June 4, 2022
+<!-- Answer the **Quiz 4.7**. Click your section to open the Google Form. Deadline: June 4, 2022
 - [8-Cooperation](https://forms.gle/ujWjehVGAiGU8UxS8)
 - [8-Diligence](https://forms.gle/6S481LwFNRvk2kMG8)
 - [8-Honesty](https://forms.gle/FbEFToJ1tAwfYEWx8)
 - [8-Obedience](https://forms.gle/8orQv2cakGtnHJ5d8)
 - [8-Vigor](https://forms.gle/i5jVkb1ShEGZtpXY9)
+-->
 
-<!-- 
 Answer the **Remedial Activity 4.7**. Click your section to open the Google Form. 
 - [8-Cooperation](https://forms.gle/quU6LuXjTUJCh38H8)
 - [8-Diligence](https://forms.gle/akcfP7G5TcJG97AG9)
 - [8-Honesty](https://forms.gle/dCKWSJZARXbVfGjq7)
 - [8-Obedience](https://forms.gle/UM2odnLiR3qnABz56)
 - [8-Vigor](https://forms.gle/YFTeMfdM4qhRXn3z6)
--->
+
 
 ### Week 8 Lesson 1
  Experimental and Theoretical Probability 
